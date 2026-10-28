@@ -1,0 +1,30 @@
+{% capture tocWorkspace %}
+  {% comment %}
+    Version 1.0
+    Minimalist TOC generator for Kramdown
+  {% endcomment %}
+  {% assign html = include.html %}
+  {% assign sanitizedId = include.sanitize | default: true %}
+  {% assign h_min = include.h_min | default: 1 %}
+  {% assign h_max = include.h_max | default: 6 %}
+  {% assign skipNoIds = include.skipNoIds | default: false %}
+  
+  {% assign nodes = include.html | split: '<h' %}
+  <ul style="list-style-type: none; padding-left: 0; margin: 0; line-height: 1.6;">
+  {% for node in nodes %}
+    {% if node == "" %}{% continue %}{% endif %}
+    {% assign header = node | slice: 0 %}
+    {% assign level = header | plus: 0 %}
+    {% if level >= h_min and level <= h_max %}
+      {% assign _id = node | split: 'id="' | last | split: '"' | first %}
+      {% assign _title = node | split: '>' | last | split: '</h' | first %}
+      <li style="margin-bottom: 0.5rem; padding-left: {{ level | minus: h_min | times: 1.2 }}rem;">
+        <a href="#{{ _id }}" style="color: var(--text-muted); text-decoration: none; font-weight: 500;">
+          {{ _title }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endcapture %}
+{{ tocWorkspace | strip }}
