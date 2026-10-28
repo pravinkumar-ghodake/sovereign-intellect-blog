@@ -25,6 +25,13 @@ layout: default
     </p>
   </header>
 
+  {% if page.toc %}
+    <div class="toc" style="background: var(--bg-secondary); padding: 1.5rem; border-radius: 8px; margin-bottom: 2.5rem; font-family: var(--font-ui); font-size: 0.95rem; border: 1px solid var(--border-color);">
+      <strong style="display: block; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-main);">In this essay</strong>
+      {% include toc.html html=content %}
+    </div>
+  {% endif %}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
@@ -34,13 +41,17 @@ layout: default
       {% assign idx = page.part | minus: 1 %}
       {% assign prev = idx | minus: 1 %}
       {% assign next = page.part %}
+      
       {% if prev >= 0 %}
         {% assign prev_part = s.parts[prev] %}
-        <a class="prev" href="{{ '/posts/' | append: prev_part.file | replace: '.md', '.html' | relative_url }}">← {{ prev_part.title }}</a>
+        <a class="prev" href="{% post_url 2026-10-29-algorithmic-sovereignty %}">← {{ prev_part.title }}</a>
+      {% else %}
+        <span></span>
       {% endif %}
+      
       {% if next < s.parts.size %}
         {% assign next_part = s.parts[next] %}
-        <a class="next" href="{{ '/posts/' | append: next_part.file | replace: '.md', '.html' | relative_url }}">{{ next_part.title }} →</a>
+        <a class="next" href="{% post_url 2026-10-29-algorithmic-sovereignty %}">{{ next_part.title }} →</a>
       {% endif %}
     </nav>
   {% endif %}
