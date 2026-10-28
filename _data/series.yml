@@ -1,0 +1,13 @@
+- slug: intellectual-sovereignty
+  title: "Trilogy of Intellectual Sovereignty"
+  description: "Three essays on authorship, accountability, and the evaluation of independent research."
+  parts:
+    - title: "Algorithmic Sovereignty"
+      subtitle: "How independent creators are building digital fortresses against AI erasure"
+      file: 2026-11-01-algorithmic-sovereignty.md
+    - title: "The Solo Author Rebellion"
+      subtitle: "Why the 10-author paper is killing true innovation"
+      file: 2026-11-08-solo-author-rebellion.md
+    - title: "The Polymath Code"
+      subtitle: "Why the best systems thinkers refuse to separate code from culture"
+      file: 2026-11-15-polymath-code.md
