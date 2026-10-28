@@ -12,17 +12,17 @@ layout: default
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
-  <a href="{% post_url 2026-10-29-algorithmic-sovereignty %}" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
+  <a href="{{ site.baseurl }}/2026/10/29/algorithmic-sovereignty.html" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
     <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part I: Algorithmic Sovereignty</h3>
     <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">How independent creators are building digital fortresses against AI erasure.</p>
   </a>
 
-  <a href="{% post_url 2026-11-08-solo-author-rebellion %}" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
+  <a href="{{ site.baseurl }}/2026/11/08/solo-author-rebellion.html" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
     <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part II: The Solo Author Rebellion</h3>
     <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">Why the 10-author paper is killing true innovation.</p>
   </a>
 
-  <a href="{% post_url 2026-11-15-polymath-code %}" style="display: block; text-decoration: none;">
+  <a href="{{ site.baseurl }}/2026/11/15/polymath-code.html" style="display: block; text-decoration: none;">
     <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part III: The Polymath Code</h3>
     <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">Why the best systems thinkers refuse to separate code from culture.</p>
   </a>
