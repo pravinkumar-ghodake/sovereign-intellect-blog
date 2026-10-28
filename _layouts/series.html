@@ -13,7 +13,17 @@ layout: default
 {% if s.parts.size > 0 %}
 <div class="series-grid" style="display: flex; flex-direction: column; gap: 20px;">
   {% for p in s.parts %}
-    <a href="{{ '/posts/' | append: p.file | replace: '.md', '.html' | relative_url }}" style="display: block; padding: 24px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    
+    <!-- Dynamic URL building based on the part number -->
+    {% if forloop.index == 1 %}
+      {% assign post_url = site.baseurl | append: "/2026/10/29/algorithmic-sovereignty.html" %}
+    {% elsif forloop.index == 2 %}
+      {% assign post_url = site.baseurl | append: "/2026/11/08/solo-author-rebellion.html" %}
+    {% elsif forloop.index == 3 %}
+      {% assign post_url = site.baseurl | append: "/2026/11/15/polymath-code.html" %}
+    {% endif %}
+
+    <a href="{{ post_url }}" style="display: block; padding: 24px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">
       
       <h3 style="margin: 0 0 10px 0; font-size: 1.5rem; color: var(--accent-color);">{{ p.title }}</h3>
       
