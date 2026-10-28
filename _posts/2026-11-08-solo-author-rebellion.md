@@ -62,13 +62,3 @@ The Solo Author Rebellion reminds us that the human brain remains the most sophi
 By taking individual ownership of data, mathematics, and delivery, independent scholars are showing us one possible future of open science — proving that a single sovereign mind can still step onto the global stage and rewrite the rules of the game on its own terms.
 
 </div>
-
-<div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-  <sub>
-    <a href="{% post_url 2026-10-29-algorithmic-sovereignty %}">← Part I — Algorithmic Sovereignty</a> 
-    · 
-    <strong>Part II of III</strong> 
-    · 
-    <a href="{% post_url 2026-11-15-polymath-code %}">Part III — The Polymath Code →</a>
-  </sub>
-</div>
