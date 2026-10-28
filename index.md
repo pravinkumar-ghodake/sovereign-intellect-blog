@@ -12,7 +12,7 @@ layout: default
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
-  <a href="/sovereign-intellect-blog/posts/2026-11-01-algorithmic-sovereignty.html" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
+  <a href="/sovereign-intellect-blog/posts/2026-10-29-algorithmic-sovereignty.html" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
     <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part I: Algorithmic Sovereignty</h3>
     <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">How independent creators are building digital fortresses against AI erasure.</p>
   </a>
