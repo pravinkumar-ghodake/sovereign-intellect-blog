@@ -9,7 +9,7 @@ tags: [open-science, provenance, ai, authorship, digital-fortress, intellectual-
 ---
 
 <div align="center" style="margin-bottom: 2rem;">
-  <em>Trilogy I — The Provenance Problem, Part I of III</em>
+  <strong><em>Trilogy I — The Provenance Problem, Part I of III</em></strong>
 </div>
 
 ## Trilogy Preface
