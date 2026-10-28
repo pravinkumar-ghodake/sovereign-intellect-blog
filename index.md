@@ -2,15 +2,6 @@
 layout: default
 ---
 
-<div class="hero-section" style="text-align: center; margin-bottom: 4rem;">
-  <h1 style="font-size: 3.5rem; font-weight: 700; letter-spacing: -0.03em; margin-bottom: 1rem; line-height: 1.1;">
-    Sovereign Intellect
-  </h1>
-  <p style="font-family: var(--font-ui); font-size: 1.25rem; color: var(--text-muted); max-width: 600px; margin: 0 auto;">
-    Essays on Intellectual Sovereignty, Open Science, and Algorithmic Provenance
-  </p>
-</div>
-
 <div align="justify" style="font-family: var(--font-ui); font-size: 1.1rem; line-height: 1.7; margin-bottom: 3rem;">
 <strong>Sovereign Intellect</strong> publishes structured trilogies on how independent researchers own their claims, anchor their provenance, and resist algorithmic erasure in the AI era. We believe that in the age of AI and hyper-authorship, the individual mind must build its own fortress.
 </div>
