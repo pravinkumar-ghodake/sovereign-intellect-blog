@@ -52,7 +52,7 @@ permalink: /about/
 
 ## 📬 Contact
 
-[Your contact email or ORCID]
+[ORCID 0000-0002-6755-4003]
 
 ---
 
@@ -60,7 +60,7 @@ permalink: /about/
 
 <sub>
 
-This blog is written by **[Your Name]**.
+This blog is written by **[Pravinkumar Ghodake]**.
 Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Code licensed [MIT](https://opensource.org/licenses/MIT).
 
 </sub>
