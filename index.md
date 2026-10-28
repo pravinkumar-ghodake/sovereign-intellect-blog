@@ -19,15 +19,21 @@ layout: default
 
 ### [Trilogy I — The Provenance Problem](/sovereign-intellect-blog/series/intellectual-sovereignty/)
 
-<div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color);">
+<div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
-**Part I:** [Algorithmic Sovereignty](/sovereign-intellect-blog/posts/2026-11-01-algorithmic-sovereignty.html)  
-*How independent creators are building digital fortresses against AI erasure.*
+  <a href="/sovereign-intellect-blog/posts/2026-11-01-algorithmic-sovereignty.html" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
+    <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part I: Algorithmic Sovereignty</h3>
+    <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">How independent creators are building digital fortresses against AI erasure.</p>
+  </a>
 
-**Part II:** [The Solo Author Rebellion](/sovereign-intellect-blog/posts/2026-11-08-solo-author-rebellion.html)  
-*Why the 10-author paper is killing true innovation.*
+  <a href="/sovereign-intellect-blog/posts/2026-11-08-solo-author-rebellion.html" style="display: block; text-decoration: none; margin-bottom: 1.5rem;">
+    <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part II: The Solo Author Rebellion</h3>
+    <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">Why the 10-author paper is killing true innovation.</p>
+  </a>
 
-**Part III:** [The Polymath Code](/sovereign-intellect-blog/posts/2026-11-15-polymath-code.html)  
-*Why the best systems thinkers refuse to separate code from culture.*
+  <a href="/sovereign-intellect-blog/posts/2026-11-15-polymath-code.html" style="display: block; text-decoration: none;">
+    <h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part III: The Polymath Code</h3>
+    <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">Why the best systems thinkers refuse to separate code from culture.</p>
+  </a>
 
 </div>
