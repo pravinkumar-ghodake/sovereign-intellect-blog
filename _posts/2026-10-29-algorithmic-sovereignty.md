@@ -134,7 +134,3 @@ Building an open-source, machine-readable sandbox is no longer just a project fo
 The fortress is not the destination. It is the foundation. **Part II** will ask the harder question: once the fortress is built, how does it open its gates without collapsing into unfalsifiability?
 
 </div>
-
-<div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-  <sub><strong>Next in the trilogy:</strong> <a href="{% post_url 2026-11-08-solo-author-rebellion %}">Part II — The Solo Author Rebellion →</a></sub>
-</div>
