@@ -11,7 +11,7 @@
 [![Built with Jekyll](https://img.shields.io/badge/Built_with-Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 [![Hosted on GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
-<sub><strong>🌐 Live Site:</strong> <a href="https://YOURUSERNAME.github.io/sovereign-intellect-blog/">https://YOURUSERNAME.github.io/sovereign-intellect-blog/</a></sub>
+<sub><strong>🌐 Live Site:</strong> <a href="https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/">https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/</a></sub>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ## 🧭 Jump To
 
-**[🌐 Live Site](https://YOURUSERNAME.github.io/sovereign-intellect-blog/)** · **[📚 Trilogy Index](#-trilogy-index)** · **[🧩 Repository Structure](#-repository-structure)** · **[📖 Citation](#-citation)** · **[📜 License](#-license)**
+**[🌐 Live Site](https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/)** · **[📚 Trilogy Index](#-trilogy-index)** · **[🧩 Repository Structure](#-repository-structure)** · **[📖 Citation](#-citation)** · **[📜 License](#-license)**
 
 ---
 
@@ -54,7 +54,7 @@
 | II | **The Solo Author Rebellion** — Why the 10-author paper is killing true innovation | ⏳ Draft |
 | III | **The Polymath Code** — Why the best systems thinkers refuse to separate code from culture | ⏳ Draft |
 
-**Series landing page:** [`/series/intellectual-sovereignty/`](https://YOURUSERNAME.github.io/sovereign-intellect-blog/series/intellectual-sovereignty/)
+**Series landing page:** [`/series/intellectual-sovereignty/`](https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/series/intellectual-sovereignty/)
 
 ---
 
@@ -102,7 +102,7 @@ sovereign-intellect-blog/
 
 If you reference this blog:
 
-> [Your Name]. (2026). *Sovereign Intellect*. GitHub Pages. https://YOURUSERNAME.github.io/sovereign-intellect-blog/
+> [Pravinkumar Ghodake]. (2026). *Sovereign Intellect*. GitHub Pages. https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/
 
 ---
 
@@ -117,10 +117,10 @@ This repository uses a **multi-license model**:
 
 ### Thank You for Reading
 
-**[Your Name]** · Essays on Intellectual Sovereignty
+**[Pravinkumar Ghodake]** · Essays on Intellectual Sovereignty
 
-[![Live Site](https://img.shields.io/badge/Read_the_Blog-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://YOURUSERNAME.github.io/sovereign-intellect-blog/)
+[![Live Site](https://img.shields.io/badge/Read_the_Blog-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/)
 
-© 2026 **[Your Name]** · This blog is continuously updated.
+© 2026 **[Pravinkumar Ghodake]** · This blog is continuously updated.
 
 </div>
