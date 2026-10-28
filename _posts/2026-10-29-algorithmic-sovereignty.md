@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Sovereignty"
 subtitle: "How independent creators are building digital fortresses against AI erasure"
-date: 2026-11-01 09:00:00 +0000
+date: 2026-10-29 09:00:00 +0000
 series: intellectual-sovereignty
 part: 1
 toc: true
