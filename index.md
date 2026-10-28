@@ -1,9 +1,8 @@
 ---
-layout: home
-title: Sovereign Intellect
+layout: default
 ---
 
-<div class="hero-section" style="text-align: center; margin-bottom: 4rem;">
+<div class="hero-section" style="text-align: center; margin-bottom: 4rem; margin-top: 2rem;">
   <h1 style="font-size: 3.5rem; font-weight: 700; letter-spacing: -0.03em; margin-bottom: 1rem; line-height: 1.1;">
     Sovereign Intellect
   </h1>
