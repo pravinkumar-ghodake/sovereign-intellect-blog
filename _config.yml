@@ -3,14 +3,14 @@ tagline: Essays on intellectual sovereignty and open science
 description: >-
   A blog on intellectual sovereignty, open science, provenance, and the
   evaluation of independent researchers in the AI era.
-url: "https://YOURUSERNAME.github.io"
+url: "https://pravinkumar-ghodake.github.io"
 baseurl: "/sovereign-intellect-blog"
 lang: en
 timezone: UTC
 
 author:
-  name: YOUR NAME
-  url: "https://YOURUSERNAME.github.io/sovereign-intellect-blog/about/"
+  name: Pravinkumar Ghodake
+  url: "https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/about/"
 
 theme: minima
 
