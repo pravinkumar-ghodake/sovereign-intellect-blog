@@ -136,5 +136,5 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
 </div>
 
 <div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-  <sub><strong>Next in the trilogy:</strong> <a href="/sovereign-intellect-blog/posts/2026-11-08-solo-author-rebellion.html">Part II — The Solo Author Rebellion →</a></sub>
+  <sub><strong>Next in the trilogy:</strong> <a href="{% post_url 2026-11-08-solo-author-rebellion %}">Part II — The Solo Author Rebellion →</a></sub>
 </div>
