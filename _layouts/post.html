@@ -38,18 +38,15 @@ layout: default
 
   {% if page.series %}
     <nav class="series-nav series-nav-bottom" aria-label="Series navigation">
-      {% if page.part > 1 %}
-        {% assign prev_idx = page.part | minus: 2 %}
-        {% assign prev_post = site.posts | where: "series", page.series | sort: "part" | slice: prev_idx %}
-        <a class="prev" href="{{ prev_post[0].url | relative_url }}">← {{ prev_post[0].title }}</a>
-      {% else %}
+      {% if page.part == 1 %}
         <span></span>
-      {% endif %}
-      
-      {% if page.part < s.parts.size %}
-        {% assign next_idx = page.part | minus: 1 %}
-        {% assign next_post = site.posts | where: "series", page.series | sort: "part" | slice: next_idx %}
-        <a class="next" href="{{ next_post[0].url | relative_url }}">{{ next_post[0].title }} →</a>
+        <a class="next" href="{{ site.baseurl }}/2026/11/08/solo-author-rebellion.html">The Solo Author Rebellion →</a>
+      {% elsif page.part == 2 %}
+        <a class="prev" href="{{ site.baseurl }}/2026/10/29/algorithmic-sovereignty.html">← Algorithmic Sovereignty</a>
+        <a class="next" href="{{ site.baseurl }}/2026/11/15/polymath-code.html">The Polymath Code →</a>
+      {% elsif page.part == 3 %}
+        <a class="prev" href="{{ site.baseurl }}/2026/11/08/solo-author-rebellion.html">← The Solo Author Rebellion</a>
+        <span></span>
       {% endif %}
     </nav>
   {% endif %}
