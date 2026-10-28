@@ -64,11 +64,3 @@ The honest position is this: the model is architecturally serious, critically mo
 The fortress is built. The question is whether it opens its gates.
 
 </div>
-
-<div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-  <sub>
-    <a href="{% post_url 2026-11-08-solo-author-rebellion %}">← Part II — The Solo Author Rebellion</a> 
-    · 
-    <strong>Part III of III — Trilogy complete</strong>
-  </sub>
-</div>
