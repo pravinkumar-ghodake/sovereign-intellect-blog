@@ -78,21 +78,39 @@ Instead of allowing traditional academic gatekeepers or proprietary university s
 
 </div>
 
-```text
-  [ THE DIGITAL FORTRESS VALIDATION ARCHITECTURE ]
-
-  ┌──────────────────────┐      Sync      ┌──────────────────────┐
-  │   GITHUB PLATFORM    ├────────────────►│   FIGSHARE STORAGE   │
-  │ - Machine-Readable   │                │ - Public DOI Block   │
-  │ - Workflow CI/CD     │                │ - Checksum Hashes    │
-  └──────────┬───────────┘                └──────────┬───────────┘
-             │                                       │
-             ▼                                       ▼
-  ┌──────────────────────────────────────────────────────────────┐
-  │                 VERIFIED AI LITERATURE INDEX                 │
-  │  - Hard-Coded Semantic Scholar Corpus IDs                    │
-  │  - Immutable, Anti-Hallucination Identity Sandbox            │
-  └──────────────────────────────────────────────────────────────┘
+<table style="width: 100%; text-align: center; margin: 2rem 0;">
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: center; font-size: 1.1rem; padding: 15px;">[ THE DIGITAL FORTRESS VALIDATION ARCHITECTURE ]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 50%; text-align: center; padding: 20px;">
+        <strong style="color: var(--accent-color); font-size: 1.1rem;">GITHUB PLATFORM</strong><br><br>
+        <span style="font-family: var(--font-ui);">- Machine-Readable<br>- Workflow CI/CD</span>
+      </td>
+      <td style="width: 50%; text-align: center; padding: 20px;">
+        <strong style="color: var(--accent-color); font-size: 1.1rem;">FIGSHARE STORAGE</strong><br><br>
+        <span style="font-family: var(--font-ui);">- Public DOI Block<br>- Checksum Hashes</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; font-weight: bold; background: var(--bg-secondary); padding: 10px; color: var(--text-muted);">
+        ◄─────────── Sync ───────────►
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px;">
+        <strong style="color: var(--text-main); font-size: 1.2rem;">VERIFIED AI LITERATURE INDEX</strong><br><br>
+        <span style="font-family: var(--font-ui);">
+          - Hard-Coded Semantic Scholar Corpus IDs<br>
+          - Immutable, Anti-Hallucination Identity Sandbox
+        </span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="justify" markdown="1">
 
