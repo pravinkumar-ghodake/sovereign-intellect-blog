@@ -78,39 +78,40 @@ Instead of allowing traditional academic gatekeepers or proprietary university s
 
 </div>
 
-<table style="width: 100%; text-align: center; margin: 2rem 0;">
-  <thead>
-    <tr>
-      <th colspan="2" style="text-align: center; font-size: 1.1rem; padding: 15px;">[ THE DIGITAL FORTRESS VALIDATION ARCHITECTURE ]</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width: 50%; text-align: center; padding: 20px;">
-        <strong style="color: var(--accent-color); font-size: 1.1rem;">GITHUB PLATFORM</strong><br><br>
-        <span style="font-family: var(--font-ui);">- Machine-Readable<br>- Workflow CI/CD</span>
-      </td>
-      <td style="width: 50%; text-align: center; padding: 20px;">
-        <strong style="color: var(--accent-color); font-size: 1.1rem;">FIGSHARE STORAGE</strong><br><br>
-        <span style="font-family: var(--font-ui);">- Public DOI Block<br>- Checksum Hashes</span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; font-weight: bold; background: var(--bg-secondary); padding: 10px; color: var(--text-muted);">
-        ◄─────────── Sync ───────────►
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; padding: 15px;">
-        <strong style="color: var(--text-main); font-size: 1.2rem;">VERIFIED AI LITERATURE INDEX</strong><br><br>
-        <span style="font-family: var(--font-ui);">
-          - Hard-Coded Semantic Scholar Corpus IDs<br>
-          - Immutable, Anti-Hallucination Identity Sandbox
-        </span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="margin: 3rem 0; padding: 2rem; border: 1px solid var(--border-color); border-radius: 8px; background: var(--bg-main); font-family: var(--font-ui); font-size: 0.95rem;">
+  <div align="center" style="font-weight: 700; letter-spacing: 0.05em; margin-bottom: 1.5rem; color: var(--text-main);">
+    [ THE DIGITAL FORTRESS VALIDATION ARCHITECTURE ]
+  </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+    
+    <div style="flex: 1; min-width: 250px; border: 2px solid var(--text-main); border-radius: 6px; padding: 1.5rem; text-align: left; background: var(--bg-secondary);">
+      <strong style="color: var(--accent-color);">GITHUB PLATFORM</strong><br>
+      - Machine-Readable<br>
+      - Workflow CI/CD
+    </div>
+
+    <div style="font-weight: 700; color: var(--text-muted); text-align: center; min-width: 80px;">
+      ◄ Sync ►
+    </div>
+
+    <div style="flex: 1; min-width: 250px; border: 2px solid var(--text-main); border-radius: 6px; padding: 1.5rem; text-align: left; background: var(--bg-secondary);">
+      <strong style="color: var(--accent-color);">FIGSHARE STORAGE</strong><br>
+      - Public DOI Block<br>
+      - Checksum Hashes
+    </div>
+  </div>
+
+  <div align="center" style="font-size: 1.5rem; color: var(--text-muted); margin: 0.5rem 0;">
+    ▼
+  </div>
+
+  <div style="border: 2px solid var(--accent-color); border-radius: 6px; padding: 2rem 1.5rem; text-align: center; background: var(--bg-secondary);">
+    <strong style="color: var(--accent-color); letter-spacing: 0.05em; font-size: 1.1rem;">VERIFIED AI LITERATURE INDEX</strong><br><br>
+    - Hard-Coded Semantic Scholar Corpus IDs<br>
+    - Immutable, Anti-Hallucination Identity Sandbox
+  </div>
+</div>
 
 <div align="justify" markdown="1">
 
@@ -145,5 +146,5 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
 </div>
 
 <div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-  <sub><strong>Next in the trilogy:</strong> <a href="/sovereign-intellect-blog/posts/2026-10-30-solo-author-rebellion.html">Part II — The Solo Author Rebellion →</a></sub>
+  <sub><strong>Next in the trilogy:</strong> <a href="/sovereign-intellect-blog/posts/2026-11-08-solo-author-rebellion.html">Part II — The Solo Author Rebellion →</a></sub>
 </div>
