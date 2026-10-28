@@ -3,7 +3,7 @@
   <div class="wrapper">
     <div align="center">
       <p>
-        <strong>{{ site.author.name }}</strong><br>
+        <strong>{{ site.author.name | default: site.title }}</strong><br>
         <em>Essays on Intellectual Sovereignty</em>
       </p>
       <p>
