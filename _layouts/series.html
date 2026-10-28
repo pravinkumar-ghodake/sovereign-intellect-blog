@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div align="center">
+
+# {{ page.title }}
+
+{% if page.description %}
+<em>{{ page.description }}</em>
+{% endif %}
+
+</div>
+
+---
+
+{% assign s = site.data.series | where: "slug", page.slug | first %}
+
+{% if s.parts.size > 0 %}
+<ol class="series-list">
+  {% for p in s.parts %}
+    <li>
+      <a href="{{ '/posts/' | append: p.file | replace: '.md', '.html' | relative_url }}">
+        <strong>{{ p.title }}</strong>
+      </a>
+      {% if p.subtitle %}
+        <br><em>{{ p.subtitle }}</em>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>
+{% else %}
+<p><em>This trilogy is in preparation.</em></p>
+{% endif %}
