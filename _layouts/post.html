@@ -38,20 +38,18 @@ layout: default
 
   {% if page.series %}
     <nav class="series-nav series-nav-bottom" aria-label="Series navigation">
-      {% assign idx = page.part | minus: 1 %}
-      {% assign prev = idx | minus: 1 %}
-      {% assign next = page.part %}
-      
-      {% if prev >= 0 %}
-        {% assign prev_part = s.parts[prev] %}
-        <a class="prev" href="{% post_url 2026-10-29-algorithmic-sovereignty %}">← {{ prev_part.title }}</a>
+      {% if page.part > 1 %}
+        {% assign prev_idx = page.part | minus: 2 %}
+        {% assign prev_post = site.posts | where: "series", page.series | sort: "part" | slice: prev_idx %}
+        <a class="prev" href="{{ prev_post[0].url | relative_url }}">← {{ prev_post[0].title }}</a>
       {% else %}
         <span></span>
       {% endif %}
       
-      {% if next < s.parts.size %}
-        {% assign next_part = s.parts[next] %}
-        <a class="next" href="{% post_url 2026-10-29-algorithmic-sovereignty %}">{{ next_part.title }} →</a>
+      {% if page.part < s.parts.size %}
+        {% assign next_idx = page.part | minus: 1 %}
+        {% assign next_post = site.posts | where: "series", page.series | sort: "part" | slice: next_idx %}
+        <a class="next" href="{{ next_post[0].url | relative_url }}">{{ next_post[0].title }} →</a>
       {% endif %}
     </nav>
   {% endif %}
