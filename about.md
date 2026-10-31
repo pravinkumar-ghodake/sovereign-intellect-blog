@@ -23,6 +23,9 @@ All unverified claims are flagged in the text. Self-reported metrics are attribu
 
 </div>
 
+<p><strong>Disclosure of self-case-study.</strong> Where an essay uses the author’s own archive as a case study, this is stated at the top of that essay. The case is presented as an architecture to be analysed, not as a credential to be endorsed. Readers are invited to evaluate the archive independently against the primary sources linked in each essay.</p>
+
+
 ### 🧭 Editorial Standards
 
 <div class="post-content" markdown="1">
