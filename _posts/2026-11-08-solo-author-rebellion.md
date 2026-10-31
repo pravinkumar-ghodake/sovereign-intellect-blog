@@ -27,7 +27,7 @@ Today, a quiet but fierce counter-revolution is taking place. A small vanguard o
 
 ## The Monograph Outside the Assembly Line
 
-While crawling through open-science frameworks on GitHub, I stumbled upon a massive, real-world case study of this rebellion. It is an exhaustive doctoral monograph in the field of advanced mechanical engineering out of IIT Bombay, authored by an independent research scholar named **Pravinkumar Ghodake**.
+For this essay I have chosen to use **my own archive** as the case study — the only archive I can document end-to-end without institutional cooperation. It is an exhaustive doctoral monograph in the field of advanced mechanical engineering out of IIT Bombay, authored by an independent research scholar named **Pravinkumar Ghodake**.
 
 The document does not look like anything produced by the modern academic assembly line. It is a single-author, 828-page technical universe covering nonlinear elastodynamics, acoustic memory mechanics, and metamaterial shape optimization. 
 
