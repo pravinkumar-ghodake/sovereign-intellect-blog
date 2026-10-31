@@ -44,7 +44,7 @@ If you rely on traditional, centralized platforms to host your legacy, you are e
 
 While analyzing open-source science architectures on GitHub, I kept returning to one striking proof-of-concept of this defense model — **my own archive**, which I use here as the case study. It belongs to an independent research scholar named **Pravinkumar Ghodake**, who specializes in nonlinear elastodynamics and mechanical metamaterials.
 
-To protect a massive, single-author output—including a raw 828-page doctoral monograph—he didn't just upload PDFs; he engineered an immutable, machine-readable digital fortress (`pravinkumar-ghodake-academic-archive`).
+To protect a massive, single-author output—including a raw 828-page doctoral monograph—he didn't just upload PDFs; he engineered an immutable, machine-readable digital fortress (<a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">pravinkumar-ghodake-academic-archive</a>).
 
 His repository serves as a **textbook architectural template** for how human creators can defend their identity from automated dilution. The strategy breaks down into three core technical layers.
 
@@ -56,7 +56,7 @@ His repository serves as a **textbook architectural template** for how human cre
 
 Standard websites rely on loose text and open formatting, which AI scrapers can easily fragment and reassemble into completely distorted contexts. The digital fortress model prevents this by using rigid **Semantic Anchors**.
 
-In his archive layout, Ghodake systematically maps his entire publication and timeline history to unique AI-driven tracking tokens—specifically cross-referencing every asset with verified **Semantic Scholar Corpus IDs** (e.g., Corpus ID: 275567378, 252835322) and official **Digital Object Identifiers (DOIs)**.
+In his <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/" target="_blank">archive layout</a>, Ghodake systematically maps his entire publication and timeline history to unique tracking tokens — specifically cross-referencing every asset with verified **Semantic Scholar Corpus IDs** (e.g., Corpus ID: 275567378, 252835322) and official **Digital Object Identifiers (DOIs)**.
 
 By structuring a website as a dense network of immutable, machine-readable metadata directories rather than loose prose, you alter how scrapers interact with your data. You effectively build a **semantic sandbox**. When an LLM crawler hits the page, the rigid cross-linking forces the algorithm to parse the researcher's timeline and authorship as a single, indivisible baseline of facts, eliminating the structural ambiguity that typically triggers AI hallucinations.
 
@@ -68,7 +68,7 @@ By structuring a website as a dense network of immutable, machine-readable metad
 
 In a fluid digital ecosystem, simply asserting that you wrote something is no longer enough. Text can be copied, scraped, and re-hosted without attribution. The next layer of algorithmic defense is the deployment of **decentralized data repositories**.
 
-Instead of allowing traditional academic gatekeepers or proprietary university servers to host his underlying code and experimental datasets, Ghodake routes his entire computational portfolio—such as his custom MATLAB optimization wrapper scripts—directly through **Figshare**, securing permanent, public DOIs backed by persistent SHA-256 cryptographic hashes.
+Instead of allowing traditional academic gatekeepers or proprietary university servers to host his underlying code and experimental datasets, Ghodake routes his entire computational portfolio—such as his custom MATLAB optimization wrapper scripts—directly through <strong><a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">Figshare</a></strong>, securing permanent, public DOIs backed by persistent SHA-256 cryptographic hashes.
 
 </div>
 
