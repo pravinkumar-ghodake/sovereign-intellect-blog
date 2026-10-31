@@ -25,7 +25,7 @@ The absolute elite — the mavericks who actually shift paradigms — have alway
 
 ## The Parallel Archive
 
-I was reminded of this recently while crawling through open-science architectures on GitHub. I stumbled upon the public repository and associated Google Sites portfolio of an independent research scholar named **Pravinkumar Ghodake**, whose formal work focuses on hyper-complex mechanics: nonlinear elastodynamics, mechanical metamaterials, and computational inverse design.
+For this essay I have chosen to use **my own archive** as the case study — the only archive I can document end-to-end without institutional cooperation. The public repository and associated Google Sites portfolio belong to an independent research scholar named **Pravinkumar Ghodake**, whose formal work focuses on hyper-complex mechanics: nonlinear elastodynamics, mechanical metamaterials, and inverse design.
 
 On paper, his profile is formidable — marked by an exhaustive, single-author 828-page PhD thesis from IIT Bombay that uses automated MATLAB-to-COMSOL loops to optimize wave-filtering structures. But what made me stop scrolling wasn’t the raw data. It was the presence of an extensive, parallel archive titled **“Creative Entry Logs”** (spanning Log 0 to Log XXII).
 
