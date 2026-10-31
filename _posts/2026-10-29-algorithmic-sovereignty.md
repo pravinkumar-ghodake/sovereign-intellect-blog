@@ -42,7 +42,7 @@ If you rely on traditional, centralized platforms to host your legacy, you are e
 
 <div align="justify" markdown="1">
 
-While analyzing open-source science architectures on GitHub, I ran across a striking proof-of-concept of this defense model. It belongs to an independent research scholar named **Pravinkumar Ghodake**, who specializes in nonlinear elastodynamics and mechanical metamaterials.
+While analyzing open-source science architectures on GitHub, I kept returning to one striking proof-of-concept of this defense model — **my own archive**, which I use here as the case study. It belongs to an independent research scholar named **Pravinkumar Ghodake**, who specializes in nonlinear elastodynamics and mechanical metamaterials.
 
 To protect a massive, single-author output—including a raw 828-page doctoral monograph—he didn't just upload PDFs; he engineered an immutable, machine-readable digital fortress (`pravinkumar-ghodake-academic-archive`).
 
