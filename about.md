@@ -29,6 +29,20 @@ All unverified claims are flagged in the text. Self-reported metrics are attribu
 
 ---
 
+<div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border-left: 4px solid var(--accent-color); margin-bottom: 3rem;" align="justify" markdown="1">
+
+### 🚀 The Ethos of the Solo Author
+
+While this publication operates in a strictly analytical register, the reason it exists is deeply human. It is built on the belief that independent researchers must protect their intellectual sovereignty against the noise of hyper-authorship and algorithmic erasure.
+
+> "Don't ever let somebody tell you... You can't do something. Not even me. All right? You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period."
+> 
+> — **Chris Gardner** (*The Pursuit of Happyness*)
+
+</div>
+
+---
+
 
 ### 🧭 Editorial Standards
 
