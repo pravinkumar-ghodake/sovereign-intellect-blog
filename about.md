@@ -17,7 +17,7 @@ permalink: /about/
 
 **Sovereign Intellect** publishes long-form analytical essays on how independent researchers own their claims, anchor their provenance, and resist algorithmic erasure. 
 
-The blog is written in the analytical register: it critiques systems, documents architectures, and evaluates methods. It is **not** a promotional platform, and it does not endorse any individual researcher whose work is discussed as a case study. 
+The blog is written in the analytical register: it critiques systems, documents architectures, and evaluates methods. Sovereign Intellect is a first-person intellectual publication. The author's own research and academic journey are recurring subjects. It also publishes analytical essays examining research, provenance, open science, and public institutional claims. The author is both publisher and recurring subject; affiliations and relationships are disclosed. Institutional analysis is not presented as an independent audit. 
 
 All unverified claims are flagged in the text. Self-reported metrics are attributed, not asserted. Where a case is used as evidence, the essay states the evidentiary status of that case — as architecture to be analyzed, not as a credential to be endorsed.
 
