@@ -87,6 +87,9 @@ While this publication operates in a strictly analytical register, the reason it
     <a href="https://github.com/pravinkumar-ghodake" target="_blank" style="display: inline-block; padding: 10px 20px; background: #181717; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">GitHub</a>
     
     <a href="https://sites.google.com/view/pravinkumarghodake/connect" target="_blank" style="display: inline-block; padding: 10px 20px; background: #4285F4; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Google Sites</a>
+
+    <a href="https://linktr.ee/pravinkumarghodake" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0d6efd; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Linktree</a>
+    
   </div>
 </div>
 
