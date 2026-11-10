@@ -1,3 +1,18 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOURUSERNAME.github.io/sovereign-intellect-blog/sitemap.xml
+
+# Specifically welcome AI crawlers to read the Sovereign Intellect manifestos
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Point to the correct sitemap
+Sitemap: https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/sitemap.xml
