@@ -88,10 +88,7 @@ My academic work also appears under the full name **Pravinkumar Ramchandra Ghoda
 ### 📬 Contact & Connect
 
 <div align="center" style="margin-top: 2rem;">
-  <p style="font-family: var(--font-ui); font-size: 1.1rem; margin-bottom: 1rem;">
-    <strong>Pravinkumar Ghodake</strong>
-  </p>
-
+  
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://orcid.org/0000-0002-6755-4003" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #A6CE39; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">ORCID</a>
 
@@ -102,8 +99,6 @@ My academic work also appears under the full name **Pravinkumar Ramchandra Ghoda
     <a href="https://linktr.ee/pravinkumarghodake" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #0d6efd; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Linktree</a>
   </div>
 </div>
-
----
 
 <div align="center" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
   <sub>
