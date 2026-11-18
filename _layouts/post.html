@@ -1,26 +1,35 @@
 ---
 layout: default
 ---
+
 {% if page.series %}
   {% assign s = site.data.series | where: "slug", page.series | first %}
-  <nav class="series-nav" aria-label="Series navigation">
-    <a href="{{ '/series/' | append: s.slug | append: '/' | relative_url }}">← {{ s.title }}</a>
-    <span class="series-progress">Part {{ page.part }} of {{ s.parts.size }}</span>
-  </nav>
+  {% if s %}
+    <nav class="series-nav" aria-label="Series navigation">
+      <a href="{{ '/series/' | append: s.slug | append: '/' | relative_url }}">← {{ s.title }}</a>
+      <span class="series-progress">Part {{ page.part }} of {{ s.parts.size }}</span>
+    </nav>
+  {% endif %}
 {% endif %}
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+{% assign post_author = page.author | default: site.author.name %}
+
+<article class="post h-entry">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title p-name">{{ page.title | escape }}</h1>
+
     {% if page.subtitle %}
-      <p class="post-subtitle" itemprop="description">{{ page.subtitle | escape }}</p>
+      <p class="post-subtitle">{{ page.subtitle | escape }}</p>
     {% endif %}
+
     <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">
         {{ page.date | date: "%B %-d, %Y" }}
       </time>
-      {% if page.author %} · <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>{% endif %}
+      {% if post_author %}
+        · <span class="p-author h-card"><span class="p-name">{{ post_author | escape }}</span></span>
+      {% endif %}
       · <span>{{ content | number_of_words | divided_by: 220 }} min read</span>
     </p>
   </header>
@@ -32,7 +41,7 @@ layout: default
     </div>
   {% endif %}
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content">
     {{ content }}
   </div>
 
@@ -40,12 +49,12 @@ layout: default
     <nav class="series-nav series-nav-bottom" aria-label="Series navigation">
       {% if page.part == 1 %}
         <span></span>
-        <a class="next" href="{{ site.baseurl }}/solo-author-rebellion.html">The Solo Author Rebellion →</a>
+        <a class="next" href="{{ '/solo-author-rebellion.html' | relative_url }}">The Solo Author Rebellion →</a>
       {% elsif page.part == 2 %}
-        <a class="prev" href="{{ site.baseurl }}/algorithmic-sovereignty.html">← Algorithmic Sovereignty</a>
-        <a class="next" href="{{ site.baseurl }}/polymath-code.html">The Polymath Code →</a>
+        <a class="prev" href="{{ '/algorithmic-sovereignty.html' | relative_url }}">← Algorithmic Sovereignty</a>
+        <a class="next" href="{{ '/polymath-code.html' | relative_url }}">The Polymath Code →</a>
       {% elsif page.part == 3 %}
-        <a class="prev" href="{{ site.baseurl }}/solo-author-rebellion.html">← The Solo Author Rebellion</a>
+        <a class="prev" href="{{ '/solo-author-rebellion.html' | relative_url }}">← The Solo Author Rebellion</a>
         <span></span>
       {% endif %}
     </nav>
