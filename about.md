@@ -43,11 +43,15 @@ The essays take an analytical form, but the reason this publication matters to m
 
 ### About the Author
 
+<div class="post-content" align="justify" markdown="1">
+
 I am **Pravinkumar Ghodake**, an independent research scholar and writer working across theoretical, computational, and experimental mechanics. My academic work has focused on nonlinear waves in solids, nonlinear ultrasonics, mechanical metamaterials, and inverse design.
 
 My doctoral research at IIT Bombay brought these interests together through mathematical analysis, computational modeling, and experimental work. I am especially interested in how materials shape the movement of elastic waves, and how those ideas can contribute to structural health monitoring and the study of damage in materials. My [research biography](https://sites.google.com/view/pravinkumarghodake/biography) and [academic archive](https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/) bring together more of this work, including research records, publications, presentations, and related profiles.
 
 My academic work also appears under the full name **Pravinkumar Ramchandra Ghodake**. I maintain a parallel creative archive with reflections on cinema, sport, literature, and everyday observations. I enjoy tracing connections between these interests and technical work: movement and mechanics, strategy and systems, narrative and research. That curiosity is one of the ideas behind *The Polymath Code*.
+
+</div>
 
 ---
 
