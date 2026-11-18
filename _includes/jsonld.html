@@ -1,27 +1,47 @@
+{% assign identity = site.identity %}
+
 {% if page.url == "/about/" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": {{ site.identity.person_id | jsonify }},
-  "name": {{ site.identity.name | jsonify }},
-  "alternateName": {{ site.identity.alternate_name | jsonify }},
-  "givenName": "Pravinkumar",
-  "familyName": "Ghodake",
-  "url": {{ site.identity.url | jsonify }},
+  "@id": {{ identity.person_id | jsonify }},
+  "name": {{ identity.name | jsonify }},
+  "alternateName": {{ identity.alternate_name | jsonify }},
+  "givenName": {{ identity.given_name | default: "Pravinkumar" | jsonify }},
+  "familyName": {{ identity.family_name | default: "Ghodake" | jsonify }},
+  "url": {{ identity.url | jsonify }}{% if identity.image %},
+  "image": {{ identity.image | jsonify }}{% endif %}{% if identity.job_title %},
+  "jobTitle": {{ identity.job_title | jsonify }}{% endif %}{% if identity.description %},
+  "description": {{ identity.description | jsonify }}{% endif %}{% if identity.affiliation %},
+  "affiliation": {{ identity.affiliation | jsonify }}{% endif %}{% if identity.alumni_of %},
+  "alumniOf": {{ identity.alumni_of | jsonify }}{% endif %}{% if identity.member_of %},
+  "memberOf": {{ identity.member_of | jsonify }}{% endif %},
   "identifier": {
     "@type": "PropertyValue",
     "propertyID": "ORCID",
-    "value": {{ site.identity.orcid | jsonify }}
+    "value": {{ identity.orcid | jsonify }}
   },
-  "sameAs": {{ site.identity.same_as | jsonify }},
-  "knowsAbout": {{ site.identity.knows_about | jsonify }},
+  "sameAs": {{ identity.same_as | jsonify }},
+  "knowsAbout": {{ identity.knows_about | jsonify }},
   "subjectOf": [
-    {% for subject_url in site.identity.subject_of %}
+    {% for subject in identity.subject_of %}
+      {% assign subject_type = subject.type | default: "WebPage" %}
+      {% assign subject_url = subject.url %}
+      {% assign subject_id = subject.id | default: subject_url %}
+      {% assign subject_name = subject.name %}
+
+      {% if subject_url or subject_id or subject_name %}
+    {
+      "@type": {{ subject_type | jsonify }}{% if subject_id %},
+      "@id": {{ subject_id | jsonify }}{% endif %}{% if subject_name %},
+      "name": {{ subject_name | jsonify }}{% endif %}{% if subject_url %},
+      "url": {{ subject_url | jsonify }}{% endif %}
+    }{% else %}
     {
       "@type": "WebPage",
-      "@id": {{ subject_url | jsonify }}
-    }{% unless forloop.last %},{% endunless %}
+      "@id": {{ subject | jsonify }}
+    }{% endif %}{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ],
   "mainEntityOfPage": {
@@ -44,6 +64,9 @@
   "name": {{ page.title | default: s.title | jsonify }},
   "description": {{ page.description | default: s.description | default: site.description | jsonify }},
   "url": {{ page.url | absolute_url | jsonify }},
+  "author": {
+    "@id": {{ identity.person_id | jsonify }}
+  },
   "mainEntity": {
     "@type": "ItemList",
     "numberOfItems": {{ s.parts.size }},
