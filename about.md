@@ -41,7 +41,7 @@ The essays take an analytical form, but the reason this publication matters to m
 
 ---
 
-<div align="justify" markdown="1">
+<div style="margin-bottom: 3rem;" align="justify" markdown="1">
 
 ### About the Author
 
