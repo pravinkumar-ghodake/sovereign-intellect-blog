@@ -11,18 +11,21 @@ timezone: UTC
 future: true
 
 author:
-  name: "Pravinkumar Ghodake"
-  full_name: "Pravinkumar Ramchandra Ghodake"
-  url: "https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/about/"
-  entity_id: "https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/#person"
+  name: "Pravinkumar Ramchandra Ghodake"
+  url: "https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/#person"
+
+identity:
+  person_id: "https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/#person"
+  name: "Pravinkumar Ramchandra Ghodake"
+  alternate_name: "Pravinkumar Ghodake"
+  url: "https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/"
   orcid: "0000-0002-6755-4003"
 
-social:
-  name: "Pravinkumar Ramchandra Ghodake"
-  links:
+  same_as:
     - "https://orcid.org/0000-0002-6755-4003"
     - "https://scholar.google.com/citations?user=WJSL6fIAAAAJ"
     - "https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661"
+    - "https://www.scopus.com/authid/detail.uri?authorId=57301893500"
     - "https://figshare.com/authors/Pravinkumar_Ghodake/3701242"
     - "https://www.researchgate.net/profile/Pravinkumar_Ghodake"
     - "https://spie.org/profile/Pravinkumar.Ghodake-4330088"
@@ -31,8 +34,9 @@ social:
     - "https://www.ndt.net/myndt/member/18204-pravinkumar-ghodake"
     - "https://www.linkedin.com/in/pravinkumarghodake/"
     - "https://github.com/pravinkumar-ghodake"
-    - "https://sites.google.com/view/pravinkumarghodake/biography"
+    - "https://sites.google.com/view/pravinkumarghodake/home"
     - "https://www.youtube.com/channel/UCDZAnjmqN0Geh_0h3IORp0g"
+    - "https://www.youtube.com/@pravinkumar_727"
     - "https://www.instagram.com/pravinkumarghodake"
     - "https://x.com/pravinkumar_727"
     - "https://bsky.app/profile/pravinkumar-007-27.bsky.social"
@@ -42,6 +46,48 @@ social:
     - "https://substack.com/@pravinkumarghodake00727"
     - "https://medium.com/@mech7pkumar"
     - "https://linktr.ee/pravinkumarghodake"
+
+  knows_about:
+    - "Solid mechanics"
+    - "Computational mechanics"
+    - "Theoretical mechanics"
+    - "Experimental mechanics"
+    - "Nonlinear mechanics"
+    - "Nonlinear elastic waves"
+    - "Nonlinear ultrasonics"
+    - "Nonlinear acoustics"
+    - "Wave propagation"
+    - "Elastodynamics"
+    - "Harmonic generation and scattering"
+    - "Nonlinear wave mixing"
+    - "Guided waves and Lamb waves"
+    - "Mechanical metamaterials"
+    - "Acoustic metamaterials"
+    - "Phononic materials and phononic crystals"
+    - "Inverse problems"
+    - "Inverse design"
+    - "Structural health monitoring"
+    - "Nondestructive evaluation and testing"
+    - "Damage quantification"
+    - "Composite materials"
+    - "Impact and fracture mechanics"
+    - "Finite element methods"
+    - "Numerical simulation"
+    - "Optimization and uncertainty quantification"
+    - "Machine learning for mechanics and nondestructive evaluation"
+    - "Research provenance"
+    - "Open science"
+    - "Intellectual sovereignty"
+    - "Independent research evaluation"
+    - "Research communication"
+    - "Literature and multilingual creative writing"
+    - "Independent literary publishing"
+    - "Digital publishing"
+    - "Software and independent intellectual projects"
+    - "Interdisciplinary systems thinking"
+
+  subject_of:
+    - "https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/02-ai-knowledge-base/#webpage"
 
 theme: minima
 
