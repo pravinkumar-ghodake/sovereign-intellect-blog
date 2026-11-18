@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign series_slug = page.series_slug | default: page.series %}
+{% assign series_slug = page.series_slug | default: page.slug | default: page.series %}
 {% assign s = site.data.series | where: "slug", series_slug | first %}
 
 <div class="series-header" style="text-align: center; margin-bottom: 4rem;">
