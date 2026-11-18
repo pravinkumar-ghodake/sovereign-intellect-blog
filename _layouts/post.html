@@ -2,14 +2,39 @@
 layout: default
 ---
 
+{% assign s = nil %}
 {% if page.series %}
   {% assign s = site.data.series | where: "slug", page.series | first %}
-  {% if s %}
-    <nav class="series-nav" aria-label="Series navigation">
-      <a href="{{ '/series/' | append: s.slug | append: '/' | relative_url }}">← {{ s.title }}</a>
-      <span class="series-progress">Part {{ page.part }} of {{ s.parts.size }}</span>
-    </nav>
-  {% endif %}
+{% endif %}
+
+{% assign current_part = page.part | default: 0 | plus: 0 %}
+{% assign previous_part = nil %}
+{% assign next_part = nil %}
+
+{% if s and s.parts and current_part > 0 %}
+  {% assign previous_number = current_part | minus: 1 %}
+  {% assign next_number = current_part | plus: 1 %}
+
+  {% for part in s.parts %}
+    {% assign listed_part_number = part.number | plus: 0 %}
+
+    {% if listed_part_number == previous_number %}
+      {% assign previous_part = part %}
+    {% elsif listed_part_number == next_number %}
+      {% assign next_part = part %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if s and s.parts and current_part > 0 and current_part <= s.parts.size %}
+  <nav class="series-nav" aria-label="Series navigation">
+    <a href="{{ '/series/' | append: s.slug | append: '/' | relative_url }}">
+      ← {{ s.title | escape }}
+    </a>
+    <span class="series-progress">
+      Part {{ current_part }} of {{ s.parts.size }}
+    </span>
+  </nav>
 {% endif %}
 
 {% assign post_author = page.author | default: site.author.name %}
@@ -45,16 +70,21 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.series %}
+  {% if s and s.parts and current_part > 0 and current_part <= s.parts.size %}
     <nav class="series-nav series-nav-bottom" aria-label="Series navigation">
-      {% if page.part == 1 %}
+      {% if previous_part %}
+        <a class="prev" href="{{ previous_part.url | relative_url }}">
+          ← {{ previous_part.title | escape }}
+        </a>
+      {% else %}
         <span></span>
-        <a class="next" href="{{ '/solo-author-rebellion.html' | relative_url }}">The Solo Author Rebellion →</a>
-      {% elsif page.part == 2 %}
-        <a class="prev" href="{{ '/algorithmic-sovereignty.html' | relative_url }}">← Algorithmic Sovereignty</a>
-        <a class="next" href="{{ '/polymath-code.html' | relative_url }}">The Polymath Code →</a>
-      {% elsif page.part == 3 %}
-        <a class="prev" href="{{ '/solo-author-rebellion.html' | relative_url }}">← The Solo Author Rebellion</a>
+      {% endif %}
+
+      {% if next_part %}
+        <a class="next" href="{{ next_part.url | relative_url }}">
+          {{ next_part.title | escape }} →
+        </a>
+      {% else %}
         <span></span>
       {% endif %}
     </nav>
