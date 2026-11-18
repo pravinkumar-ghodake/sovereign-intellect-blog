@@ -1,28 +1,35 @@
 ---
 layout: default
 ---
+
+{% assign series_slug = page.series_slug | default: page.series %}
+{% assign s = site.data.series | where: "slug", series_slug | first %}
+
 <div class="series-header" style="text-align: center; margin-bottom: 4rem;">
-  <h1 class="post-title">{{ page.title }}</h1>
-  {% if page.description %}
-    <p class="post-subtitle">{{ page.description }}</p>
+  <h1 class="post-title">{{ page.title | default: s.title | escape }}</h1>
+
+  {% assign series_description = page.description | default: s.description %}
+  {% if series_description %}
+    <p class="post-subtitle">{{ series_description | escape }}</p>
   {% endif %}
 </div>
 
-<div class="series-grid" style="display: flex; flex-direction: column; gap: 20px;">
-  
-  <a href="{{ site.baseurl }}/algorithmic-sovereignty.html" style="display: block; padding: 24px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; transition: transform 0.2s ease;">
-    <h3 style="margin: 0 0 10px 0; font-size: 1.5rem; color: var(--accent-color);">Part I: Algorithmic Sovereignty</h3>
-    <p style="margin: 0; color: var(--text-muted); font-family: var(--font-ui); font-size: 1rem;">How independent creators are building digital fortresses against AI erasure.</p>
-  </a>
+{% if s and s.parts %}
+  <div class="series-grid" style="display: flex; flex-direction: column; gap: 20px;">
+    {% for part in s.parts %}
+      {% if part.url %}
+        <a href="{{ part.url | relative_url }}" style="display: block; padding: 24px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; transition: transform 0.2s ease;">
+          <h3 style="margin: 0 0 10px 0; font-size: 1.5rem; color: var(--accent-color);">
+            Part {{ part.number | default: forloop.index }}: {{ part.title | escape }}
+          </h3>
 
-  <a href="{{ site.baseurl }}/solo-author-rebellion.html" style="display: block; padding: 24px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; transition: transform 0.2s ease;">
-    <h3 style="margin: 0 0 10px 0; font-size: 1.5rem; color: var(--accent-color);">Part II: The Solo Author Rebellion</h3>
-    <p style="margin: 0; color: var(--text-muted); font-family: var(--font-ui); font-size: 1rem;">Why the 10-author paper is killing true innovation.</p>
-  </a>
-
-  <a href="{{ site.baseurl }}/polymath-code.html" style="display: block; padding: 24px; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 8px; text-decoration: none; transition: transform 0.2s ease;">
-    <h3 style="margin: 0 0 10px 0; font-size: 1.5rem; color: var(--accent-color);">Part III: The Polymath Code</h3>
-    <p style="margin: 0; color: var(--text-muted); font-family: var(--font-ui); font-size: 1rem;">Why the best systems thinkers refuse to separate code from culture.</p>
-  </a>
-
-</div>
+          {% if part.subtitle %}
+            <p style="margin: 0; color: var(--text-muted); font-family: var(--font-ui); font-size: 1rem;">
+              {{ part.subtitle | escape }}
+            </p>
+          {% endif %}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
