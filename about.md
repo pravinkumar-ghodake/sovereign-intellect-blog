@@ -42,10 +42,10 @@ The essays take an analytical form, but the reason this publication matters to m
 </div>
 
 ---
-  
-### 👤 About the Author
 
 <div style="background: var(--bg-primary); padding: 2rem; border-radius: 8px; margin-bottom: 3rem;" align="justify" markdown="1">
+  
+### 👤 About the Author
   
 I am **Pravinkumar Ghodake**, an independent research scholar and writer working across theoretical, computational, and experimental mechanics. My academic work has focused on nonlinear waves in solids, nonlinear ultrasonics, mechanical metamaterials, and inverse design.
 
@@ -59,7 +59,6 @@ My academic work also appears under the full name **Pravinkumar Ramchandra Ghoda
 
 ### 🧭 Editorial Standards
 
-<div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem;" markdown="1">
 <div class="post-content" style="font-size: 1.05rem;" markdown="1">
 
 | Standard | Practice |
