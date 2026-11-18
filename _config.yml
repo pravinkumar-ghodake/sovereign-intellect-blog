@@ -1,5 +1,5 @@
-title: "Sovereign Intellect"
-tagline: "Essays on intellectual sovereignty and open science"
+title: Sovereign Intellect
+tagline: Essays on intellectual sovereignty and open science
 description: >-
   A blog on intellectual sovereignty, open science, provenance, and the
   evaluation of independent researchers in the AI era.
@@ -14,21 +14,14 @@ author:
   name: "Pravinkumar Ghodake"
   full_name: "Pravinkumar Ramchandra Ghodake"
   url: "https://pravinkumar-ghodake.github.io/sovereign-intellect-blog/about/"
-  orcid: "0000-0002-6755-4003"
   entity_id: "https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/#person"
+  orcid: "0000-0002-6755-4003"
 
 social:
   name: "Pravinkumar Ramchandra Ghodake"
   links:
-    # Persistent researcher identity and primary profiles
     - "https://orcid.org/0000-0002-6755-4003"
-    - "https://sites.google.com/view/pravinkumarghodake/biography"
-    - "https://www.linkedin.com/in/pravinkumarghodake/"
-    - "https://github.com/pravinkumar-ghodake"
-
-    # Academic profiles
     - "https://scholar.google.com/citations?user=WJSL6fIAAAAJ"
-    - "https://www.scopus.com/authid/detail.uri?authorId=57301893500"
     - "https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661"
     - "https://figshare.com/authors/Pravinkumar_Ghodake/3701242"
     - "https://www.researchgate.net/profile/Pravinkumar_Ghodake"
@@ -36,10 +29,11 @@ social:
     - "https://imechanica.org/user/10007432"
     - "https://metamaterials.network/user/pravinkumar-ghodake/"
     - "https://www.ndt.net/myndt/member/18204-pravinkumar-ghodake"
-
-    # Public social and creator profiles
+    - "https://www.linkedin.com/in/pravinkumarghodake/"
+    - "https://github.com/pravinkumar-ghodake"
+    - "https://sites.google.com/view/pravinkumarghodake/biography"
     - "https://www.youtube.com/channel/UCDZAnjmqN0Geh_0h3IORp0g"
-    - "https://www.instagram.com/pravinkumarghodake/"
+    - "https://www.instagram.com/pravinkumarghodake"
     - "https://x.com/pravinkumar_727"
     - "https://bsky.app/profile/pravinkumar-007-27.bsky.social"
     - "https://www.facebook.com/pravinkumar.ghodake.07"
