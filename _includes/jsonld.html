@@ -1,40 +1,63 @@
 {% if page.url == "/about/" %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": {{ site.author.entity_id | jsonify }},
-  "name": {{ site.author.full_name | default: site.author.name | jsonify }},
-  "alternateName": {{ site.author.name | jsonify }},
-  "url": {{ site.author.url | jsonify }},
-  "identifier": {
-    "@type": "PropertyValue",
-    "propertyID": "ORCID",
-    "value": {{ site.author.orcid | jsonify }}
-  },
-  "sameAs": {{ site.social.links | jsonify }},
-  "knowsAbout": [
-    "Solid mechanics",
-    "Computational mechanics",
-    "Nonlinear ultrasonics",
-    "Wave propagation",
-    "Metamaterials",
-    "Inverse problems",
-    "Structural health monitoring",
-    "Acoustics"
-  ],
-  "mainEntityOfPage": {{ page.url | absolute_url | jsonify }}
-}
-</script>
+  {% assign person_id = site.author.entity_id | default: site.author.url %}
+  {% assign person_name = site.author.full_name | default: site.author.name %}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": {{ person_id | jsonify }},
+    "name": {{ person_name | jsonify }},
+    "alternateName": {{ site.author.name | jsonify }},
+    "url": {{ site.author.url | absolute_url | jsonify }},
+    {% if site.author.orcid %}
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": {{ site.author.orcid | jsonify }}
+    },
+    {% endif %}
+    {% if site.social.links %}
+    "sameAs": {{ site.social.links | jsonify }},
+    {% endif %}
+    "knowsAbout": [
+      "Solid mechanics",
+      "Computational mechanics",
+      "Nonlinear ultrasonics",
+      "Wave propagation",
+      "Metamaterials",
+      "Inverse problems",
+      "Structural health monitoring",
+      "Acoustics"
+    ],
+    "mainEntityOfPage": {{ page.url | absolute_url | jsonify }}
+  }
+  </script>
 
 {% elsif page.layout == "series" %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": {{ page.title | jsonify }},
-  "description": {{ page.description | default: site.description | jsonify }},
-  "url": {{ page.url | absolute_url | jsonify }}
-}
-</script>
+  {% assign series_slug = page.series_slug | default: page.slug | default: page.series %}
+  {% assign s = site.data.series | where: "slug", series_slug | first %}
+
+  {% if s and s.parts %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": {{ page.title | default: s.title | jsonify }},
+      "description": {{ page.description | default: s.description | default: site.description | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "numberOfItems": {{ s.parts.size }},
+      "itemListElement": [
+        {% for part in s.parts %}
+        {
+          "@type": "ListItem",
+          "position": {{ part.number | default: forloop.index }},
+          "name": {{ part.title | jsonify }},
+          "url": {{ part.url | absolute_url | jsonify }}
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    </script>
+  {% endif %}
 {% endif %}
