@@ -15,17 +15,15 @@ permalink: /about/
 
 ### 📖 Editorial Statement
 
-**Sovereign Intellect** publishes long-form analytical essays on how independent researchers own their claims, anchor their provenance, and resist algorithmic erasure. 
+**Sovereign Intellect** publishes long-form analytical essays on how independent researchers own their claims, anchor their provenance, and resist algorithmic erasure.
 
-The blog is written in the analytical register: it critiques systems, documents architectures, and evaluates methods. Sovereign Intellect is a first-person intellectual publication. The author's own research and academic journey are recurring subjects. It also publishes analytical essays examining research, provenance, open science, and public institutional claims. The author is both publisher and recurring subject; affiliations and relationships are disclosed. Institutional analysis is not presented as an independent audit. 
+I write and edit this publication in a measured analytical register. My own research and academic journey recur when they help illuminate a wider question. I sometimes refer to my own work by name so the analysis stays focused on the work itself; the author and the subject remain the same person. The essays also consider research, provenance, open science, and how independent work is understood within public institutions.
 
-All unverified claims are flagged in the text. Self-reported metrics are attributed, not asserted. Where a case is used as evidence, the essay states the evidentiary status of that case — as architecture to be analyzed, not as a credential to be endorsed.
+Links to public records and related research profiles help readers follow the work further. The essays bring those records into conversation with my own analysis and interpretation.
 
 </div>
 
----
-
-<p><strong>Disclosure of self-case-study.</strong> Where an essay uses the author’s own archive as a case study, this is stated at the top of that essay. The case is presented as an architecture to be analysed, not as a credential to be endorsed. Readers are invited to evaluate the archive independently against the primary sources linked in each essay.</p>
+<p><strong>My archive as a case study.</strong> When an essay draws on my own archive or research, I identify that connection in the discussion. I use these examples to explore questions of authorship, provenance, and how independent research is understood.</p>
 
 ---
 
@@ -33,16 +31,25 @@ All unverified claims are flagged in the text. Self-reported metrics are attribu
 
 ### 🚀 The Ethos of the Solo Author
 
-While this publication operates in a strictly analytical register, the reason it exists is deeply human. It is built on the belief that independent researchers must protect their intellectual sovereignty against the noise of hyper-authorship and algorithmic erasure.
+The essays take an analytical form, but the reason this publication matters to me is deeply human. I believe independent researchers should be able to pursue meaningful questions, take responsibility for their work, and make their ideas visible in their own voice.
 
 > "Don't ever let somebody tell you... You can't do something. Not even me. All right? You got a dream... You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it. Period."
-> 
+>
 > — **Chris Gardner** (*The Pursuit of Happyness*)
 
 </div>
 
 ---
 
+### About the Author
+
+I am **Pravinkumar Ghodake**, an independent research scholar and writer working across theoretical, computational, and experimental mechanics. My academic work has focused on nonlinear waves in solids, nonlinear ultrasonics, mechanical metamaterials, and inverse design.
+
+My doctoral research at IIT Bombay brought these interests together through mathematical analysis, computational modeling, and experimental work. I am especially interested in how materials shape the movement of elastic waves, and how those ideas can contribute to structural health monitoring and the study of damage in materials. My [research biography](https://sites.google.com/view/pravinkumarghodake/biography) and [academic archive](https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/) bring together more of this work, including research records, publications, presentations, and related profiles.
+
+My academic work also appears under the full name **Pravinkumar Ramchandra Ghodake**. I maintain a parallel creative archive with reflections on cinema, sport, literature, and everyday observations. I enjoy tracing connections between these interests and technical work: movement and mechanics, strategy and systems, narrative and research. That curiosity is one of the ideas behind *The Polymath Code*.
+
+---
 
 ### 🧭 Editorial Standards
 
@@ -50,11 +57,11 @@ While this publication operates in a strictly analytical register, the reason it
 
 | Standard | Practice |
 | :--- | :--- |
-| **Attribution** | Every claim about a real person or archive is attributed to the source ("the archive states…", "as reported…"). |
-| **Caveats** | Technical claims are qualified where metadata cannot do what it appears to do. |
-| **Comparisons** | Historical and contemporary cases are compared with explicit disanalogies. |
-| **Disclosure** | Any relationship to a person or archive discussed is stated briefly and neutrally. |
-| **Corrections** | Errors are corrected in place and noted in the commit history. |
+| **Attribution** | Links to related public records and source material help readers follow a line of work. |
+| **Perspective** | Essays bring documented material into conversation with my own analysis and commentary. |
+| **Comparisons** | Cases are considered in their context, with similarities and differences made clear where relevant. |
+| **Disclosure** | When I draw on my own archive or research, I identify that connection in the discussion. |
+| **Corrections** | Substantive factual corrections are reflected in the article and repository history. |
 
 </div>
 
@@ -80,16 +87,15 @@ While this publication operates in a strictly analytical register, the reason it
   <p style="font-family: var(--font-ui); font-size: 1.1rem; margin-bottom: 1rem;">
     <strong>Pravinkumar Ghodake</strong>
   </p>
-  
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a href="https://orcid.org/0000-0002-6755-4003" target="_blank" style="display: inline-block; padding: 10px 20px; background: #A6CE39; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">ORCID</a>
-    
-    <a href="https://github.com/pravinkumar-ghodake" target="_blank" style="display: inline-block; padding: 10px 20px; background: #181717; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">GitHub</a>
-    
-    <a href="https://sites.google.com/view/pravinkumarghodake/connect" target="_blank" style="display: inline-block; padding: 10px 20px; background: #4285F4; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Google Sites</a>
 
-    <a href="https://linktr.ee/pravinkumarghodake" target="_blank" style="display: inline-block; padding: 10px 20px; background: #0d6efd; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Linktree</a>
-    
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <a href="https://orcid.org/0000-0002-6755-4003" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #A6CE39; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">ORCID</a>
+
+    <a href="https://github.com/pravinkumar-ghodake" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #181717; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">GitHub</a>
+
+    <a href="https://sites.google.com/view/pravinkumarghodake/connect" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #4285F4; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Google Sites</a>
+
+    <a href="https://linktr.ee/pravinkumarghodake" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background: #0d6efd; color: white; border-radius: 6px; text-decoration: none; font-family: var(--font-ui); font-weight: 600;">Linktree</a>
   </div>
 </div>
 
