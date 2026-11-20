@@ -112,8 +112,6 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
----
-
 <div align="justify" markdown="1">
 
 <div style="margin: 3rem 0; padding: 2rem; border: 1px solid var(--border-color); border-radius: 8px; background: var(--bg-main); font-family: var(--font-ui); font-size: 0.85rem; text-align: left;">
@@ -145,11 +143,5 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   <div style="margin-top: 1.5rem; font-size: 0.8rem; color: var(--text-muted); font-style: italic;">
     Document tiers: Tier 1 = statutory filing / DOI / persistent identifier · Tier 2 = press release / self-published page
   </div>
-
-</div>
-
-<div style="margin-top: 2rem;">
-  <a href="{{ '/series/the-artifact/part-2/' | relative_url }}">The 2% Turnitin Score →</a>
-</div>
 
 </div>
