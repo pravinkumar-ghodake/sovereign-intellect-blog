@@ -19,3 +19,26 @@
       subtitle: "Why the best systems thinkers refuse to separate code from culture"
       file: 2026-11-15-polymath-code.md
       url: /polymath-code.html
+
+  
+  - slug: the-artifact
+  title: "Trilogy II — The Artifact"
+  description: "Three essays on the single-author thesis: the artifact, the metric, and the declaration."
+  parts:
+    - number: 1
+      title: "The Unbroken Thread"
+      subtitle: "Why one author held an entire scientific universe together"
+      file: 2026-11-22-the-unbroken-thread.md
+      url: /the-unbroken-thread.html
+
+    - number: 2
+      title: "The 2% Turnitin Score"
+      subtitle: "A metric anyone can check"
+      file: 2026-11-29-the-turnitin-score.md
+      url: /the-turnitin-score.html
+
+    - number: 3
+      title: "Page 751"
+      subtitle: "The declaration as a public record"
+      file: 2026-12-06-page-751.md
+      url: /page-751.html
