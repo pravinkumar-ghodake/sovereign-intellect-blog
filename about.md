@@ -83,6 +83,16 @@ My academic work also appears under the full name **Pravinkumar Ramchandra Ghoda
 
 </div>
 
+#### [Trilogy II — The Artifact](/sovereign-intellect-blog/series/the-artifact/)
+
+<div style="padding-left: 1.5rem; border-left: 3px solid var(--accent-color); margin-bottom: 2rem;" markdown="1">
+
+1. [The Unbroken Thread](/sovereign-intellect-blog/the-unbroken-thread.html) — Why one author held an entire scientific universe together.
+2. The 2% Turnitin Score — A metric anyone can check. *(Forthcoming Nov 29)*
+3. Page 751 — The declaration as a public record. *(Forthcoming Dec 6)*
+
+</div>
+
 ---
 
 ### 📬 Contact & Connect
