@@ -155,7 +155,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    ORCID — Pravinkumar R. Ghodake
+    ORCID — Pravinkumar Ghodake
     <span style="opacity: 0.55;"> | </span>
     <a href="https://orcid.org/0000-0002-6755-4003" style="font-size: 0.73rem;">https://orcid.org/0000-0002-6755-4003</a>
   </div>
