@@ -1,10 +1,11 @@
 <header class="site-header">
-  <div class="wrapper header-inner" style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
-    <a class="site-title" href="{{ '/' | relative_url }}" style="justify-self: start;">{{ site.title | escape }}</a>
+  <div class="wrapper header-inner" style="display: flex; justify-content: space-between; align-items: center;">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
     
-    <nav class="site-nav" style="display: contents;">
-      <a href="{{ '/trilogies/' | relative_url }}" style="justify-self: center; margin: 0; text-transform: none;">Trilogies</a>
-      <a href="{{ '/about/' | relative_url }}" style="justify-self: end; margin: 0; text-transform: none; font-weight: 700;">About</a>
+    <nav class="site-nav" style="display: flex; align-items: center; gap: 1.5rem;">
+      <a href="{{ '/trilogies/' | relative_url }}" style="margin: 0; text-transform: none; font-weight: 600; font-size: 0.95rem; letter-spacing: -0.01em;">Trilogies</a>
+      <a href="{{ '/about/' | relative_url }}" style="margin: 0; text-transform: none; font-weight: 600; font-size: 0.95rem; letter-spacing: -0.01em;">About</a>
     </nav>
   </div>
 </header>
+
