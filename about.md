@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div align="center" style="margin-bottom: 3rem; margin-top: 0rem;">
+<div align="center" style="margin-bottom: 3rem; margin-top: -2rem;">
   <h1 style="font-size: 3rem; font-weight: 700; letter-spacing: -0.02em; margin-top: 0; margin-bottom: 1rem;">Sovereign Intellect</h1>
   <p style="font-family: var(--font-ui); font-size: 1.2rem; color: var(--text-muted); max-width: 600px; margin: 0 auto;">
     Essays on Intellectual Sovereignty, Open Science, and Algorithmic Provenance
