@@ -147,12 +147,6 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Git
-    <span style="opacity: 0.55;"> | </span>
-    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" style="font-size: 0.73rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
-  </div>
-
-  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     Academic Archive — Main
     <span style="opacity: 0.55;"> | </span>
     <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.73rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
