@@ -165,8 +165,6 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     Figshare Author Profile
   </div>
 
-  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
-
 </div>
 
 
