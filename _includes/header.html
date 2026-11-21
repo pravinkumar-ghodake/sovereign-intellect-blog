@@ -1,10 +1,10 @@
 <header class="site-header">
-  <div class="wrapper header-inner">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+  <div class="wrapper header-inner" style="display: grid; grid-template-columns: 1fr auto 1fr; align-items: center;">
+    <a class="site-title" href="{{ '/' | relative_url }}" style="justify-self: start;">{{ site.title | escape }}</a>
     
-    <nav class="site-nav">
-      <a href="{{ '/about/' | relative_url }}">About</a>
-      <a href="{{ '/trilogies/' | relative_url }}">Trilogies</a>
+    <nav class="site-nav" style="display: contents;">
+      <a href="{{ '/trilogies/' | relative_url }}" style="justify-self: center; margin: 0;">Trilogies</a>
+      <a href="{{ '/about/' | relative_url }}" style="justify-self: end; margin: 0;">About</a>
     </nav>
   </div>
 </header>
