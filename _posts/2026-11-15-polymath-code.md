@@ -2,7 +2,7 @@
 title: "The Polymath Code"
 subtitle: "Why the best systems thinkers refuse to separate code from culture"
 date: 2026-11-15 09:00:00 +0000
-series: intellectual-sovereignty
+series: the-provenance-problem
 part: 3
 tags: [polymathy, culture, systems-thinking, mental-models]
 ---
