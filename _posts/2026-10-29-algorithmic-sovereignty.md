@@ -2,7 +2,7 @@
 title: "Algorithmic Sovereignty"
 subtitle: "How independent creators are building digital fortresses against AI erasure"
 date: 2026-10-29 09:00:00 +0000
-series: intellectual-sovereignty
+series: the-provenance-problem
 part: 1
 toc: true
 tags: [open-science, provenance, ai, authorship, digital-fortress, intellectual-property]
