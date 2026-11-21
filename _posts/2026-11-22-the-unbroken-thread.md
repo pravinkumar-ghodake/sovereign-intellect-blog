@@ -136,6 +136,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <span style="opacity: 0.55;"> | </span>
     Independent Authorship &amp; IP Declaration, p. 751
   </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
 
@@ -150,6 +151,8 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <span style="opacity: 0.55;"> | </span>
     Academic Archive — Main
   </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
 
@@ -159,12 +162,11 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     ORCID — Pravinkumar Ghodake
   </div>
 
-  <div style="margin-bottom: 0; white-space: nowrap; overflow-x: auto;">
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.82rem;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
     <span style="opacity: 0.55;"> | </span>
     Figshare Author Profile
   </div>
-
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
 </div>
