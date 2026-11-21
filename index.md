@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div align="justify" style="font-family: var(--font-ui); font-size: 1.1rem; line-height: 1.7; margin-bottom: 3rem;">
+<div align="justify" style="font-family: var(--font-ui); font-size: 1.1rem; line-height: 1.7; margin-bottom: 2rem;">
 <strong>Sovereign Intellect</strong> publishes structured trilogies on <strong>intellectual sovereignty</strong>—how independent scientists and polymaths own claims, anchor verifiable provenance, and resist algorithmic erasure in the AI era. Amid hyper-authorship, disciplinary silos, and automated synthesis stripping origin, discovery alone no longer protects originality. Cross-disciplinary minds spanning code, theory, mechanics, and culture need timestamped, machine-readable proof—a permanent fortress so no theorem, artifact, or insight is absorbed, fragmented, or claimed without credit.
 </div>
 
