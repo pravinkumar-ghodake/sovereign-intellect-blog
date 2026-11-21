@@ -112,79 +112,56 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="margin: 2rem 0 1rem; padding: 0.5rem 0; font-family: var(--font-ui); font-size: 0.78rem; line-height: 1.6; text-align: left; color: var(--text-main);">
+<div style="margin: 2rem 0 1rem; padding: 0; font-family: var(--font-ui); font-size: 0.78rem; line-height: 1.55; text-align: left; color: var(--text-main);">
 
-  <div style="font-weight: 700; letter-spacing: 0.07em; margin-bottom: 0.65rem;">
+  <div style="font-weight: 700; letter-spacing: 0.06em; margin-bottom: 0.5rem;">
     SOURCES
   </div>
 
-  <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0 0 1rem;">
+  <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0 0 0.8rem;">
 
-  <div style="font-weight: 600; margin: 0.8rem 0 0.3rem;">
-    Primary Sources
-  </div>
+  <ol style="margin: 0; padding-left: 1.4rem;">
 
-  <ol style="margin: 0; padding-left: 1.5rem;">
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Copyright and Sole Authorship Record, p. iii.
-      Figshare.
+    <li style="margin-bottom: 0.35rem;">
+      Copyright and Sole Authorship Record, p. iii. Figshare.
       <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">https://doi.org/10.6084/m9.figshare.34174368</a>.
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii.
-      Figshare.
+
+    <li style="margin-bottom: 0.35rem;">
+      Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii. Figshare.
       <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">https://doi.org/10.6084/m9.figshare.34175961</a>.
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751.
-      Figshare.
+
+    <li style="margin-bottom: 0.35rem;">
+      Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751. Figshare.
       <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">https://doi.org/10.6084/m9.figshare.34177155</a>.
     </li>
-  </ol>
 
-  <div style="font-weight: 600; margin: 1rem 0 0.3rem;">
-    Secondary Sources
-  </div>
-
-  <ol start="4" style="margin: 0; padding-left: 1.5rem;">
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Research Outputs.
-      Google Sites.
+    <li style="margin-bottom: 0.35rem;">
+      Research Outputs. Google Sites.
       <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">https://sites.google.com/view/pravinkumarghodake/research</a>.
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Academic Archive — Public Records.
-      GitHub Pages.
+
+    <li style="margin-bottom: 0.35rem;">
+      Academic Archive — Public Records. GitHub Pages.
       <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>.
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Academic Archive — Main.
-      GitHub Pages.
+
+    <li style="margin-bottom: 0.35rem;">
+      Academic Archive — Main. GitHub Pages.
       <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>.
     </li>
-  </ol>
 
-  <div style="font-weight: 600; margin: 1rem 0 0.3rem;">
-    Persistent Identifiers
-  </div>
-
-  <ol start="7" style="margin: 0; padding-left: 1.5rem;">
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Pravinkumar Ramchandra Ghodake.
-      ORCID: 0000-0002-6755-4003.
+    <li style="margin-bottom: 0.35rem;">
+      Ghodake, P. R. ORCID: 0000-0002-6755-4003.
       <a href="https://orcid.org/0000-0002-6755-4003" target="_blank">https://orcid.org/0000-0002-6755-4003</a>.
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.35rem;">
-      Ghodake, Pravinkumar.
-      Figshare Author Profile.
+
+    <li style="margin-bottom: 0;">
+      Ghodake, Pravinkumar. Figshare Author Profile.
       <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>.
     </li>
+
   </ol>
-
-</div>
-
-  <div style="margin-top: 1.5rem; font-size: 0.8rem; color: var(--text-muted); font-style: italic;">
-    Document tiers: Tier 1 = statutory filing / DOI / persistent identifier · Tier 2 = press release / self-published page
-  </div>
 
 </div>
