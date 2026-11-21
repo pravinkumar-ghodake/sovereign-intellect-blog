@@ -10,7 +10,7 @@ layout: default
 {% assign series_list = site.data.series %}
 {% assign series_count = series_list | size %}
 
-<h3 style="color: var(--accent-color); font-weight: 400;">Current Trilogy</h3>
+<h3 style="color: var(--text-muted); font-weight: 400;">Current Trilogy</h3>
 
 {% assign current_trilogy = series_list | last %}
 <h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--text-main);">{{ current_trilogy.title }}</a></h2>
@@ -28,7 +28,7 @@ layout: default
 
 {% if series_count > 1 %}
 
-<h3 style="color: var(--accent-color); font-weight: 400;">Previous Trilogy</h3>
+<h3 style="color: var(--text-muted); font-weight: 400;">Previous Trilogy</h3>
 
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
