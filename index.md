@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div align="justify" style="font-family: var(--font-ui); font-size: 1.1rem; line-height: 1.7; margin-bottom: 3rem;">
-<strong>Sovereign Intellect</strong> publishes structured trilogies on <strong>intellectual sovereignty</strong>—how independent minds own their claims, anchor verifiable provenance, and resist algorithmic erasure in the AI era. When hyper-authorship and automated synthesis dilute attribution, the independent thinker must build a permanent, traceable fortress of record.
+<strong>Sovereign Intellect</strong> publishes structured trilogies on <strong>intellectual sovereignty</strong>—how independent researchers, scientists, and polymath thinkers own their claims, anchor verifiable provenance, and resist algorithmic erasure in the AI era. In an age defined by hyper-authorship, narrow disciplinary silos, and automated synthesis that strips away origin, originality is no longer protected by discovery alone. Those who work across code, theory, mechanics, and culture need an unbreakable chain of timestamped, machine-readable proof to keep their entire body of work unified and attributable. We believe that the independent, cross-disciplinary mind must build its own fortress of permanent record—so no theorem, artifact, or insight can be absorbed, fragmented, or claimed without credit.
 </div>
+
 
 {% assign series_list = site.data.series %}
 {% assign series_count = series_list | size %}
