@@ -157,18 +157,18 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://figshare.com" style="font-size: 0.82rem;">https://figshare.com</a>
+    <a href="https://github.com" style="font-size: 0.82rem;">https://github.com</a>
     <span style="opacity: 0.55;"> | </span>
-    Figshare Author Repository (SHA-256 &amp; DOIs)
+    GitHub Source Repository
   </div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://semanticscholar.org" style="font-size: 0.82rem;">https://semanticscholar.org</a>
+    <a href="https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661" style="font-size: 0.82rem;">https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661</a>
     <span style="opacity: 0.55;"> | </span>
-    Semantic Scholar — Verified Corpus Index
+    Semantic Scholar Author Index
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
@@ -187,11 +187,12 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://github.com" style="font-size: 0.82rem;">https://github.com</a>
+    <a href="https://figshare.com" style="font-size: 0.82rem;">https://figshare.com</a>
     <span style="opacity: 0.55;"> | </span>
-    GitHub — Sovereign Source Profile
+    Figshare Author Profile
   </div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
 </div>
+
 
