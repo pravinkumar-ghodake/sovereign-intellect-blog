@@ -112,7 +112,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem;">
+<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem; margin-bottom: 0;">
 
   <div style="font-size: 0.95rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
@@ -159,7 +159,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     ORCID — Pravinkumar Ghodake
   </div>
 
-  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+  <div style="margin-bottom: 0; white-space: nowrap; overflow-x: auto;">
     <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.82rem;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
     <span style="opacity: 0.55;"> | </span>
     Figshare Author Profile
