@@ -28,12 +28,12 @@ layout: default
 
 {% if series_count > 1 %}
 
-## Previous Trilogy
+<h3 style="color: var(--accent-color); font-weight: 400;">Previous Trilogy</h3>
 
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
 
-### [{{ prev_trilogy.title }}]({{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }})
+<h2><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: var(--text-main);">{{ prev_trilogy.title }}</a></h2>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem; margin-bottom: 1.5rem;">
 
