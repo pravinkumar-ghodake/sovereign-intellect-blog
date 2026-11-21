@@ -2,7 +2,7 @@
 title: "The Solo Author Rebellion"
 subtitle: "Why the 10-author paper is killing true innovation"
 date: 2026-11-08 09:00:00 +0000
-series: intellectual-sovereignty
+series: the-provenance-problem
 part: 2
 tags: [solo-authorship, accountability, hyperauthorship, peer-review]
 ---
