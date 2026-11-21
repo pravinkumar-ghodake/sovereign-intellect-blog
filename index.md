@@ -28,7 +28,7 @@ layout: default
 
 {% if series_count > 1 %}
 
-<h3 style="color: var(--text-muted); font-weight: 400; font-size: 1.05rem; margin-top: 3.5rem;">Previous Trilogy</h3>
+<h3 style="color: var(--text-muted); font-weight: 400; font-size: 1.05rem; margin-top: 2.5rem;">Previous Trilogy</h3>
 
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
