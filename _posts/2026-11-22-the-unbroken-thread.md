@@ -112,7 +112,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="margin: 1.75rem 0 1rem; font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.6; text-align: right; color: var(--text-main);">
+<div style="margin: 1.75rem 0 1rem; font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.6; text-align: left; color: var(--text-main);">
 
   <div style="font-weight: 700; letter-spacing: 0.08em; margin-bottom: 0.55rem;">
     SOURCES
