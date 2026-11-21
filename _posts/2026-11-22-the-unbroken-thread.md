@@ -112,58 +112,59 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.35; text-align: left;">
+<div style="font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.35; text-align: right;">
 
   <div style="font-size: 0.85rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
-  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: left;">Primary Sources</div>
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Primary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Copyright &amp; Sole Authorship Record, p. iii
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://doi.org/10.6084/m9.figshare.34174368" style="font-size: 0.73rem;">https://doi.org/10.6084/m9.figshare.34174368</a>
+    <span style="opacity: 0.55;"> | </span>
+    Copyright &amp; Sole Authorship Record, p. iii
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Thesis Philosophy: “Waves,” p. vii
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://doi.org/10.6084/m9.figshare.34175961" style="font-size: 0.73rem;">https://doi.org/10.6084/m9.figshare.34175961</a>
+    <span style="opacity: 0.55;"> | </span>
+    Thesis Philosophy: “Waves,” p. vii
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Independent Authorship &amp; IP Declaration, p. 751
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://doi.org/10.6084/m9.figshare.34177155" style="font-size: 0.73rem;">https://doi.org/10.6084/m9.figshare.34177155</a>
+    <span style="opacity: 0.55;"> | </span>
+    Independent Authorship &amp; IP Declaration, p. 751
   </div>
 
-  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: left;">Secondary Sources</div>
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Research Outputs — Google Site
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://sites.google.com/view/pravinkumarghodake/research" style="font-size: 0.73rem;">https://sites.google.com/view/pravinkumarghodake/research</a>
+    <span style="opacity: 0.55;"> | </span>
+    Research Outputs — Google Site
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Academic Archive — Main
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.73rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
+    <span style="opacity: 0.55;"> | </span>
+    Academic Archive — Main
   </div>
 
-  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: left;">Persistent Identifiers</div>
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    ORCID — Pravinkumar Ghodake
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://orcid.org/0000-0002-6755-4003" style="font-size: 0.73rem;">https://orcid.org/0000-0002-6755-4003</a>
+    <span style="opacity: 0.55;"> | </span>
+    ORCID — Pravinkumar Ghodake
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Figshare Author Profile
-    <span style="opacity: 0.55;"> | </span>
     <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.73rem;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
+    <span style="opacity: 0.55;"> | </span>
+    Figshare Author Profile
   </div>
 
 </div>
+
 
