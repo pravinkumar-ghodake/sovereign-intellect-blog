@@ -55,46 +55,6 @@ My academic work also appears under the full name **Pravinkumar Ramchandra Ghoda
 
 ---
 
-### 🧭 Editorial Standards
-
-<div class="post-content" markdown="1">
-
-| Standard | Practice |
-| :--- | :--- |
-| **Attribution** | Links to related public records and source material help readers follow a line of work. |
-| **Perspective** | Essays bring documented material into conversation with my own analysis and commentary. |
-| **Comparisons** | Cases are considered in their context, with similarities and differences made clear where relevant. |
-| **Disclosure** | When I draw on my own archive or research, I identify that connection in the discussion. |
-| **Corrections** | Substantive factual corrections are reflected in the article and repository history. |
-
-</div>
-
----
-
-### 📚 The Trilogy
-
-#### [Trilogy I — The Provenance Problem](/sovereign-intellect-blog/series/intellectual-sovereignty/)
-
-<div style="padding-left: 1.5rem; border-left: 3px solid var(--accent-color); margin-bottom: 2rem;" markdown="1">
-
-1. [Algorithmic Sovereignty](/sovereign-intellect-blog/algorithmic-sovereignty.html) — How independent creators are building digital fortresses against AI erasure.
-2. [The Solo Author Rebellion](/sovereign-intellect-blog/solo-author-rebellion.html) — Why the 10-author paper is killing true innovation.
-3. [The Polymath Code](/sovereign-intellect-blog/polymath-code.html) — Why the best systems thinkers refuse to separate code from culture.
-
-</div>
-
-#### [Trilogy II — The Artifact](/sovereign-intellect-blog/series/the-artifact/)
-
-<div style="padding-left: 1.5rem; border-left: 3px solid var(--accent-color); margin-bottom: 2rem;" markdown="1">
-
-1. [The Unbroken Thread](/sovereign-intellect-blog/the-unbroken-thread.html) — Why one author held an entire scientific universe together.
-2. The 2% Turnitin Score — A metric anyone can check. *(Forthcoming Nov 29)*
-3. Page 751 — The declaration as a public record. *(Forthcoming Dec 6)*
-
-</div>
-
----
-
 ### 📬 Contact & Connect
 
 <div align="center" style="margin-top: 2rem;">
