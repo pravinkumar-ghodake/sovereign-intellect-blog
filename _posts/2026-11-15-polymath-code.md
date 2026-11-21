@@ -101,7 +101,7 @@ The fortress is built. The question is whether it opens its gates.
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     <a href="https://www.youtube.com/@pravinkumar_727/playlists" style="font-size: 0.82rem;">https://www.youtube.com/@pravinkumar_727/playlists</a>
     <span style="opacity: 0.55;"> | </span>
-    Conference &amp; Travel — YouTube Playlists
+    Conference &amp; Travel Logs — YouTube Playlists
   </div>
 
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
