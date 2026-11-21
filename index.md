@@ -14,7 +14,7 @@ layout: default
 
 {% assign current_trilogy = series_list | last %}
 
-<h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: #991b1b;">{{ current_trilogy.title }}</a></h2>
+<h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: #b30000;">{{ current_trilogy.title }}</a></h2>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
