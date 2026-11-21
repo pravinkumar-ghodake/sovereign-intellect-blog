@@ -1,7 +1,7 @@
 ---
 layout: series
-title: "Trilogy of Intellectual Sovereignty"
+title: "Trilogy I — The Provenance Problem"
 description: "Three essays on authorship, accountability, and the evaluation of independent research."
-slug: intellectual-sovereignty
-permalink: /series/intellectual-sovereignty/
+slug: the-provenance-problem
+permalink: /series/the-provenance-problem/
 ---
