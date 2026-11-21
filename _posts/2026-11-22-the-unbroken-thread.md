@@ -113,7 +113,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 ---
 
 
-<div style="font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.35; text-align: right;">
+<div style="font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.35; text-align: left;">
 
   <div style="font-size: 0.85rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
   <div style="border-top: 1px solid rgba(128,128,128,0.3); margin-bottom: 0.45rem;"></div>
@@ -141,13 +141,13 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Research Outputs — Google Sites
+    Research Outputs — Google Site
     <span style="opacity: 0.55;"> | </span>
     <a href="https://sites.google.com/view/pravinkumarghodake/research" style="font-size: 0.73rem;">https://sites.google.com/view/pravinkumarghodake/research</a>
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    Academic Archive — Public Records
+    GitHub
     <span style="opacity: 0.55;"> | </span>
     <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" style="font-size: 0.73rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
   </div>
