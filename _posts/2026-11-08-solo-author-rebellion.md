@@ -62,3 +62,70 @@ The Solo Author Rebellion reminds us that the human brain remains the most sophi
 By taking individual ownership of data, mathematics, and delivery, independent scholars are showing us one possible future of open science — proving that a single sovereign mind can still step onto the global stage and rewrite the rules of the game on its own terms.
 
 </div>
+
+---
+
+<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem; margin-bottom: -1rem;">
+
+  <div style="font-size: 0.95rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Primary Sources</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://doi.org/10.6084/m9.figshare.34174368" style="font-size: 0.82rem;">https://doi.org/10.6084/m9.figshare.34174368</a>
+    <span style="opacity: 0.55;"> | </span>
+    Copyright &amp; Sole Authorship Record, p. iii
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://doi.org/10.6084/m9.figshare.34175961" style="font-size: 0.82rem;">https://doi.org/10.6084/m9.figshare.34175961</a>
+    <span style="opacity: 0.55;"> | </span>
+    Thesis Philosophy: “Waves,” p. vii
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://doi.org/10.6084/m9.figshare.34177155" style="font-size: 0.82rem;">https://doi.org/10.6084/m9.figshare.34177155</a>
+    <span style="opacity: 0.55;"> | </span>
+    Independent Authorship &amp; IP Declaration, p. 751
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://github.com/pravinkumar-ghodake" style="font-size: 0.82rem;">https://github.com/pravinkumar-ghodake</a>
+    <span style="opacity: 0.55;"> | </span>
+    GitHub — Sovereign Source Profile
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://sites.google.com/view/pravinkumarghodake/research" style="font-size: 0.82rem;">https://sites.google.com/view/pravinkumarghodake/research</a>
+    <span style="opacity: 0.55;"> | </span>
+    Research Outputs — Google Site
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
+    <span style="opacity: 0.55;"> | </span>
+    Academic Archive — Main
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://orcid.org/0000-0002-6755-4003" style="font-size: 0.82rem;">https://orcid.org/0000-0002-6755-4003</a>
+    <span style="opacity: 0.55;"> | </span>
+    ORCID — Pravinkumar Ghodake
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.82rem;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
+    <span style="opacity: 0.55;"> | </span>
+    Figshare Author Profile
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+</div>
+
