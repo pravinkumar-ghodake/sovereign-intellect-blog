@@ -115,7 +115,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 <div style="font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.35; text-align: right;">
 
   <div style="font-size: 0.85rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
-  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.1); margin-bottom: 0.45rem;"></div>
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Primary Sources</div>
 
@@ -164,6 +164,8 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <span style="opacity: 0.55;"> | </span>
     Figshare Author Profile
   </div>
+
+  <div style="border-top: 1px solid rgba(128,128,128,0.1); margin-bottom: 0.45rem;"></div>
 
 </div>
 
