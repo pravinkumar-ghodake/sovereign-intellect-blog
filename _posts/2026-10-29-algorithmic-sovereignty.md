@@ -134,3 +134,64 @@ Building an open-source, machine-readable sandbox is no longer just a project fo
 The fortress is not the destination. It is the foundation. **Part II** will ask the harder question: once the fortress is built, how does it open its gates without collapsing into unfalsifiability?
 
 </div>
+
+---
+
+<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem; margin-bottom: -1rem;">
+
+  <div style="font-size: 0.95rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Primary Sources</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://github.io" style="font-size: 0.82rem;">https://github.io</a>
+    <span style="opacity: 0.55;"> | </span>
+    Academic Archive — Main Repository
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://github.io01-public-records/" style="font-size: 0.82rem;">https://github.io01-public-records/</a>
+    <span style="opacity: 0.55;"> | </span>
+    Public Records &amp; Semantic Anchors Index
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://figshare.com" style="font-size: 0.82rem;">https://figshare.com</a>
+    <span style="opacity: 0.55;"> | </span>
+    Figshare Author Repository (SHA-256 &amp; DOIs)
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://semanticscholar.org" style="font-size: 0.82rem;">https://semanticscholar.org</a>
+    <span style="opacity: 0.55;"> | </span>
+    Semantic Scholar — Verified Corpus Index
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://google.com" style="font-size: 0.82rem;">https://google.com</a>
+    <span style="opacity: 0.55;"> | </span>
+    Research Outputs — Google Site
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://orcid.org" style="font-size: 0.82rem;">https://orcid.org</a>
+    <span style="opacity: 0.55;"> | </span>
+    ORCID — Pravinkumar Ghodake
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://github.com" style="font-size: 0.82rem;">https://github.com</a>
+    <span style="opacity: 0.55;"> | </span>
+    GitHub — Sovereign Source Profile
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+</div>
+
