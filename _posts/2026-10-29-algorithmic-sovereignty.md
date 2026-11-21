@@ -151,12 +151,6 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/</a>
-    <span style="opacity: 0.55;"> | </span>
-    Public Records
-  </div>
-
-  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     <a href="https://github.com/pravinkumar-ghodake" style="font-size: 0.82rem;">https://github.com/pravinkumar-ghodake</a>
     <span style="opacity: 0.55;"> | </span>
     GitHub — Sovereign Source Profile
@@ -166,7 +160,7 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661" style="font-size: 0.82rem;">https://semanticscholar.org</a>
+    <a href="https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661" style="font-size: 0.82rem;">https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661</a>
     <span style="opacity: 0.55;"> | </span>
     Semantic Scholar Author Index
   </div>
