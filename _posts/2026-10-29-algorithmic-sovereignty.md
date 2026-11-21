@@ -145,34 +145,34 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Primary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://github.io" style="font-size: 0.82rem;">https://github.io</a>
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
     <span style="opacity: 0.55;"> | </span>
-    Academic Archive — Main Repository
+    Academic Archive — Main
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://github.io01-public-records/" style="font-size: 0.82rem;">https://github.io01-public-records/</a>
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/</a>
     <span style="opacity: 0.55;"> | </span>
     Public Records &amp; Semantic Anchors Index
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://github.com" style="font-size: 0.82rem;">https://github.com</a>
+    <a href="https://github.com/pravinkumar-ghodake" style="font-size: 0.82rem;">https://github.com/pravinkumar-ghodake</a>
     <span style="opacity: 0.55;"> | </span>
-    GitHub Source Repository
+    GitHub — Sovereign Source Profile
   </div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661" style="font-size: 0.82rem;">https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661</a>
+    <a href="https://www.semanticscholar.org/author/Pravinkumar-Ghodake/2042238661" style="font-size: 0.82rem;">https://semanticscholar.org</a>
     <span style="opacity: 0.55;"> | </span>
     Semantic Scholar Author Index
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://google.com" style="font-size: 0.82rem;">https://google.com</a>
+    <a href="https://sites.google.com/view/pravinkumarghodake/research" style="font-size: 0.82rem;">https://sites.google.com/view/pravinkumarghodake/research</a>
     <span style="opacity: 0.55;"> | </span>
     Research Outputs — Google Site
   </div>
@@ -181,18 +181,19 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://orcid.org" style="font-size: 0.82rem;">https://orcid.org</a>
+    <a href="https://orcid.org/0000-0002-6755-4003" style="font-size: 0.82rem;">https://orcid.org/0000-0002-6755-4003</a>
     <span style="opacity: 0.55;"> | </span>
     ORCID — Pravinkumar Ghodake
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://figshare.com" style="font-size: 0.82rem;">https://figshare.com</a>
+    <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.82rem;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
     <span style="opacity: 0.55;"> | </span>
     Figshare Author Profile
   </div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
 </div>
+
 
 
