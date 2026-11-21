@@ -112,80 +112,73 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="margin: 1.75rem 0 1rem; font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.6; text-align: left; color: var(--text-main);">
+<div style="font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.35; text-align: left;">
 
-  <div style="font-weight: 700; letter-spacing: 0.08em; margin-bottom: 0.55rem;">
+  <div style="text-align: right; font-size: 0.85rem; letter-spacing: 0.12em; margin-bottom: 0.35rem;">
     SOURCES
   </div>
 
-  <hr style="border: 0; border-top: 1px solid var(--border-color); opacity: 0.25; margin: 0 0 0.9rem;">
+  <div style="border-top: 1px solid var(--border); margin: 0.4rem 0 0.55rem;"></div>
 
-  <div style="font-weight: 600; margin-bottom: 0.5rem;">
-    Primary Sources
-  </div>
+  <div style="margin-bottom: 0.55rem;">
+    <div style="font-weight: 600; margin-bottom: 0.2rem;">Primary Sources</div>
 
-  <div style="margin-bottom: 0.7rem;">
-    <div>Copyright and Sole Authorship Record, p. iii. Figshare.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">https://doi.org/10.6084/m9.figshare.34174368</a>
+    <div style="margin-bottom: 0.35rem;">
+      Copyright and Sole Authorship Record, p. iii. Figshare.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://doi.org/10.6084/m9.figshare.34174368" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://doi.org/10.6084/m9.figshare.34174368</a>
+    </div>
+
+    <div style="margin-bottom: 0.35rem;">
+      Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii. Figshare.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://doi.org/10.6084/m9.figshare.34175961" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://doi.org/10.6084/m9.figshare.34175961</a>
+    </div>
+
+    <div style="margin-bottom: 0.35rem;">
+      Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751. Figshare.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://doi.org/10.6084/m9.figshare.34177155" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://doi.org/10.6084/m9.figshare.34177155</a>
     </div>
   </div>
 
-  <div style="margin-bottom: 0.7rem;">
-    <div>Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii. Figshare.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">https://doi.org/10.6084/m9.figshare.34175961</a>
+  <div style="margin-bottom: 0.55rem;">
+    <div style="font-weight: 600; margin-bottom: 0.2rem;">Secondary Sources</div>
+
+    <div style="margin-bottom: 0.35rem;">
+      Research Outputs. Google Sites.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://sites.google.com/view/pravinkumarghodake/research" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://sites.google.com/view/pravinkumarghodake/research</a>
+    </div>
+
+    <div style="margin-bottom: 0.35rem;">
+      Academic Archive — Public Records. GitHub Pages.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
+    </div>
+
+    <div style="margin-bottom: 0.35rem;">
+      Academic Archive — Main. GitHub Pages.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
     </div>
   </div>
 
-  <div style="margin-bottom: 0.7rem;">
-    <div>Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751. Figshare.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">https://doi.org/10.6084/m9.figshare.34177155</a>
+  <div style="margin-bottom: 0.55rem;">
+    <div style="font-weight: 600; margin-bottom: 0.2rem;">Persistent Identifiers</div>
+
+    <div style="margin-bottom: 0.35rem;">
+      ORCID — Pravinkumar Ramchandra Ghodake.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://orcid.org/0000-0002-6755-4003" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://orcid.org/0000-0002-6755-4003</a>
     </div>
-  </div>
 
-  <div style="font-weight: 600; margin: 1rem 0 0.5rem;">
-    Secondary Sources
-  </div>
-
-  <div style="margin-bottom: 0.7rem;">
-    <div>Research Outputs. Google Sites.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">https://sites.google.com/view/pravinkumarghodake/research</a>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 0.7rem;">
-    <div>Academic Archive — Public Records. GitHub Pages.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 0.7rem;">
-    <div>Academic Archive — Main. GitHub Pages.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
-    </div>
-  </div>
-
-  <div style="font-weight: 600; margin: 1rem 0 0.5rem;">
-    Persistent Identifiers
-  </div>
-
-  <div style="margin-bottom: 0.5rem;">
-    <div>ORCID — Pravinkumar Ramchandra Ghodake.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://orcid.org/0000-0002-6755-4003" target="_blank">https://orcid.org/0000-0002-6755-4003</a>
-    </div>
-  </div>
-
-  <div>
-    <div>Figshare Author Profile.</div>
-    <div style="font-size: 0.73rem; overflow-wrap: anywhere;">
-      <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
+    <div style="margin-bottom: 0.35rem;">
+      Figshare Author Profile.
+      <span style="opacity: 0.55;"> | </span>
+      <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.73rem; overflow-wrap: anywhere;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
     </div>
   </div>
 
 </div>
+
