@@ -10,11 +10,10 @@ layout: default
 {% assign series_list = site.data.series %}
 {% assign series_count = series_list | size %}
 
-## Current Trilogy
+<h3 style="color: var(--accent-color); font-weight: 400;">Current Trilogy</h3>
 
 {% assign current_trilogy = series_list | last %}
-### [{{ current_trilogy.title }}]({{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }})
-
+<h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--text-main);">{{ current_trilogy.title }}</a></h2>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
