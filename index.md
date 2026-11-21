@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="justify" style="font-family: var(--font-ui); font-size: 1.1rem; line-height: 1.7; margin-bottom: 3rem;">
-<strong>Sovereign Intellect</strong> is an independent archive dedicated to <strong>intellectual sovereignty</strong>—the discipline of owning original claims, anchoring verifiable provenance, and preserving single-author rigor in the age of AI. When hyper-authorship and algorithmic synthesis blur attribution, the sovereign mind must build its own fortress of permanent, traceable record.
+<strong>Sovereign Intellect</strong> publishes structured trilogies on <strong>intellectual sovereignty</strong>—how independent minds own their claims, anchor verifiable provenance, and resist algorithmic erasure in the AI era. When hyper-authorship and automated synthesis dilute attribution, the independent thinker must build a permanent, traceable fortress of record.
 </div>
 
 {% assign series_list = site.data.series %}
