@@ -64,3 +64,71 @@ The honest position is this: the model is architecturally serious, critically mo
 The fortress is built. The question is whether it opens its gates.
 
 </div>
+
+---
+
+<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem; margin-bottom: -1rem;">
+
+  <div style="font-size: 0.95rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Primary Sources</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://github.com/pravinkumar-ghodake" style="font-size: 0.82rem;">https://github.com/pravinkumar-ghodake</a>
+    <span style="opacity: 0.55;"> | </span>
+    GitHub — Sovereign Source Profile
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
+    <span style="opacity: 0.55;"> | </span>
+    Academic Archive — Main
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://doi.org/10.6084/m9.figshare.34175961" style="font-size: 0.82rem;">https://doi.org/10.6084/m9.figshare.34175961</a>
+    <span style="opacity: 0.55;"> | </span>
+    Thesis Philosophy: “Waves,” p. vii
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://sites.google.com/view/pravinkumarghodake/miscellaneous/hobbies-0" style="font-size: 0.82rem;">https://sites.google.com/view/pravinkumarghodake/miscellaneous/hobbies-0</a>
+    <span style="opacity: 0.55;"> | </span>
+    Creative Entry Log 0
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://www.youtube.com/@pravinkumar_727/playlists" style="font-size: 0.82rem;">https://www.youtube.com/@pravinkumar_727/playlists</a>
+    <span style="opacity: 0.55;"> | </span>
+    Conference &amp; Travel — YouTube Playlists
+  </div>
+
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://sites.google.com/view/pravinkumarghodake/research" style="font-size: 0.82rem;">https://sites.google.com/view/pravinkumarghodake/research</a>
+    <span style="opacity: 0.55;"> | </span>
+    Research Outputs — Google Site
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://orcid.org/0000-0002-6755-4003" style="font-size: 0.82rem;">https://orcid.org/0000-0002-6755-4003</a>
+    <span style="opacity: 0.55;"> | </span>
+    ORCID — Pravinkumar Ghodake
+  </div>
+
+  <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
+    <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" style="font-size: 0.82rem;">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>
+    <span style="opacity: 0.55;"> | </span>
+    Figshare Author Profile
+  </div>
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+</div>
+
