@@ -138,10 +138,6 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     · <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">Figshare Author Profile</a>
   </p>
 
-  <p style="margin: 0.65rem 0 0; font-size: 0.75rem; color: var(--text-muted); font-style: italic;">
-    Tier 1 = DOI-linked primary records and persistent identifiers · Tier 2 = supporting self-published records
-  </p>
-
 </div>
 
   <div style="margin-top: 1.5rem; font-size: 0.8rem; color: var(--text-muted); font-style: italic;">
