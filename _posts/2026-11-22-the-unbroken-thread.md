@@ -112,7 +112,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="margin: 1.5rem 0 1rem; font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.6; text-align: left; color: var(--text-main);">
+<div style="margin: 1.5rem 0 1rem; font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.6; text-align: right; color: var(--text-main);">
 
   <div style="font-weight: 700; letter-spacing: 0.06em; margin-bottom: 0.5rem; text-align: right;">
     SOURCES
@@ -120,49 +120,75 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
   <hr style="border: 0; border-top: 1px solid var(--border-color); opacity: 0.3; margin: 0 0 0.85rem;">
 
-  <div style="font-weight: 600; margin-bottom: 0.35rem;">
+  <div style="font-weight: 600; margin-bottom: 0.35rem; text-align: right;">
     Primary Sources
   </div>
 
-  <ol style="margin: 0 0 0.85rem; padding-left: 1.5rem;">
-    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
-      Copyright and Sole Authorship Record, p. iii. Figshare.
-      <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">doi:10.6084/m9.figshare.34174368</a>.
+  <ol style="list-style: none; margin: 0 0 0.85rem; padding: 0;">
+
+    <li style="display: flex; flex-direction: row-reverse; align-items: flex-start; gap: 0.55rem; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 1.2rem; text-align: right; color: var(--text-muted); font-variant-numeric: tabular-nums;">1.</span>
+      <span style="flex: 1; min-width: 0; text-align: right;">
+        Copyright and Sole Authorship Record, p. iii. Figshare.
+        <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">doi:10.6084/m9.figshare.34174368</a>.
+      </span>
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
-      Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii. Figshare.
-      <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">doi:10.6084/m9.figshare.34175961</a>.
+
+    <li style="display: flex; flex-direction: row-reverse; align-items: flex-start; gap: 0.55rem; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 1.2rem; text-align: right; color: var(--text-muted); font-variant-numeric: tabular-nums;">2.</span>
+      <span style="flex: 1; min-width: 0; text-align: right;">
+        Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii. Figshare.
+        <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">doi:10.6084/m9.figshare.34175961</a>.
+      </span>
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
-      Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751. Figshare.
-      <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">doi:10.6084/m9.figshare.34177155</a>.
+
+    <li style="display: flex; flex-direction: row-reverse; align-items: flex-start; gap: 0.55rem; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 1.2rem; text-align: right; color: var(--text-muted); font-variant-numeric: tabular-nums;">3.</span>
+      <span style="flex: 1; min-width: 0; text-align: right;">
+        Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751. Figshare.
+        <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">doi:10.6084/m9.figshare.34177155</a>.
+      </span>
     </li>
+
   </ol>
 
-  <div style="font-weight: 600; margin-bottom: 0.35rem;">
+  <div style="font-weight: 600; margin-bottom: 0.35rem; text-align: right;">
     Secondary Sources
   </div>
 
-  <ol start="4" style="margin: 0 0 0.85rem; padding-left: 1.5rem;">
-    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
-      Research Outputs. Google Sites.
-      <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">View source</a>.
+  <ol style="list-style: none; margin: 0 0 0.85rem; padding: 0;">
+
+    <li style="display: flex; flex-direction: row-reverse; align-items: flex-start; gap: 0.55rem; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 1.2rem; text-align: right; color: var(--text-muted); font-variant-numeric: tabular-nums;">4.</span>
+      <span style="flex: 1; min-width: 0; text-align: right;">
+        Research Outputs. Google Sites.
+        <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">View source</a>.
+      </span>
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
-      Academic Archive — Public Records. GitHub Pages.
-      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">View source</a>.
+
+    <li style="display: flex; flex-direction: row-reverse; align-items: flex-start; gap: 0.55rem; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 1.2rem; text-align: right; color: var(--text-muted); font-variant-numeric: tabular-nums;">5.</span>
+      <span style="flex: 1; min-width: 0; text-align: right;">
+        Academic Archive — Public Records. GitHub Pages.
+        <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">View source</a>.
+      </span>
     </li>
-    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
-      Academic Archive — Main. GitHub Pages.
-      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">View source</a>.
+
+    <li style="display: flex; flex-direction: row-reverse; align-items: flex-start; gap: 0.55rem; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 1.2rem; text-align: right; color: var(--text-muted); font-variant-numeric: tabular-nums;">6.</span>
+      <span style="flex: 1; min-width: 0; text-align: right;">
+        Academic Archive — Main. GitHub Pages.
+        <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">View source</a>.
+      </span>
     </li>
+
   </ol>
 
-  <div style="font-weight: 600; margin-bottom: 0.35rem;">
+  <div style="font-weight: 600; margin-bottom: 0.35rem; text-align: right;">
     Persistent Identifiers
   </div>
 
-  <p style="margin: 0;">
+  <p style="margin: 0; text-align: right;">
     ORCID:
     <a href="https://orcid.org/0000-0002-6755-4003" target="_blank">0000-0002-6755-4003</a>
     &nbsp;·&nbsp;
@@ -170,4 +196,3 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   </p>
 
 </div>
-
