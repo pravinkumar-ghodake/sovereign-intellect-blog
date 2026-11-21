@@ -153,7 +153,7 @@ The fortress is not the destination. It is the foundation. **Part II** will ask 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/</a>
     <span style="opacity: 0.55;"> | </span>
-    Public Records &amp; Semantic Anchors Index
+    Public Records
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
