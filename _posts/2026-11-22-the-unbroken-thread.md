@@ -118,8 +118,6 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     SOURCES
   </div>
 
-  <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0 0 0.85rem;">
-
   <div style="font-weight: 600; margin-bottom: 0.35rem;">
     Primary Sources
   </div>
