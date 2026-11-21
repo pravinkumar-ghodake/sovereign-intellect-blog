@@ -32,14 +32,9 @@ layout: default
 
 ## Previous Trilogies
 
-{% assign roman_numerals = "I,II,III,IV,V,VI,VII,VIII,IX,X" | split: "," %}
-
 {% for trilogy in series_list %}
 {% unless forloop.last %}
-{% assign roman_index = forloop.index0 %}
-{% assign clean_title = trilogy.title | remove_first: "Trilogy of " %}
-
-### [Trilogy {{ roman_numerals[roman_index] }} : {{ clean_title }}]({{ '/series/' | append: trilogy.slug | append: '/' | relative_url }})
+### [{{ trilogy.title }}]({{ '/series/' | append: trilogy.slug | append: '/' | relative_url }})
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem; margin-bottom: 2rem;">
 
