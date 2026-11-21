@@ -6,8 +6,8 @@ permalink: /trilogies/
 
 # Trilogies
 
-<div style="font-family: var(--font-ui); font-size: 1.05rem; line-height: 1.6; color: var(--text-muted); margin-bottom: 2.5rem;">
-A sequential index of all published trilogies on intellectual sovereignty, provenance, and independent research.
+<div align="justify" style="font-family: var(--font-ui); font-size: 1.05rem; line-height: 1.65; color: var(--text-muted); margin-bottom: 2.5rem;">
+<strong>Sovereign Intellect</strong> is a sequential archive of structured trilogies dedicated to <strong>intellectual sovereignty</strong>—the practice of owning authorship, anchoring verifiable provenance, and building self-reliant systems of knowledge. Spanning algorithmic defense, single-author rigor, and permanent evidentiary records, each trilogy documents how independent minds protect their work against dilution and erasure in the AI era.
 </div>
 
 {% assign series_list = site.data.series %}
