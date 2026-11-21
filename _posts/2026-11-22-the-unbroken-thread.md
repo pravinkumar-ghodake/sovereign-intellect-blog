@@ -112,56 +112,62 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div style="margin: 2rem 0 1rem; padding: 0; font-family: var(--font-ui); font-size: 0.78rem; line-height: 1.55; text-align: left; color: var(--text-main);">
+<div style="margin: 1.5rem 0 1rem; font-family: var(--font-ui); font-size: 0.8rem; line-height: 1.6; text-align: left; color: var(--text-main);">
 
   <div style="font-weight: 700; letter-spacing: 0.06em; margin-bottom: 0.5rem;">
     SOURCES
   </div>
 
-  <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0 0 0.8rem;">
+  <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0 0 0.85rem;">
 
-  <ol style="margin: 0; padding-left: 1.4rem;">
+  <div style="font-weight: 600; margin-bottom: 0.35rem;">
+    Primary Sources
+  </div>
 
-    <li style="margin-bottom: 0.35rem;">
+  <ol style="margin: 0 0 0.85rem; padding-left: 1.5rem;">
+    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
       Copyright and Sole Authorship Record, p. iii. Figshare.
-      <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">https://doi.org/10.6084/m9.figshare.34174368</a>.
+      <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">doi:10.6084/m9.figshare.34174368</a>.
     </li>
-
-    <li style="margin-bottom: 0.35rem;">
+    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
       Thesis Philosophy: “Waves: Yet Another Play of Two Actors,” p. vii. Figshare.
-      <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">https://doi.org/10.6084/m9.figshare.34175961</a>.
+      <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">doi:10.6084/m9.figshare.34175961</a>.
     </li>
-
-    <li style="margin-bottom: 0.35rem;">
+    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
       Declaration of Independent Authorship and Sole Intellectual Property Ownership, p. 751. Figshare.
-      <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">https://doi.org/10.6084/m9.figshare.34177155</a>.
+      <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">doi:10.6084/m9.figshare.34177155</a>.
     </li>
-
-    <li style="margin-bottom: 0.35rem;">
-      Research Outputs. Google Sites.
-      <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">https://sites.google.com/view/pravinkumarghodake/research</a>.
-    </li>
-
-    <li style="margin-bottom: 0.35rem;">
-      Academic Archive — Public Records. GitHub Pages.
-      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>.
-    </li>
-
-    <li style="margin-bottom: 0.35rem;">
-      Academic Archive — Main. GitHub Pages.
-      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>.
-    </li>
-
-    <li style="margin-bottom: 0.35rem;">
-      Ghodake, P. R. ORCID: 0000-0002-6755-4003.
-      <a href="https://orcid.org/0000-0002-6755-4003" target="_blank">https://orcid.org/0000-0002-6755-4003</a>.
-    </li>
-
-    <li style="margin-bottom: 0;">
-      Ghodake, Pravinkumar. Figshare Author Profile.
-      <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a>.
-    </li>
-
   </ol>
 
+  <div style="font-weight: 600; margin-bottom: 0.35rem;">
+    Secondary Sources
+  </div>
+
+  <ol start="4" style="margin: 0 0 0.85rem; padding-left: 1.5rem;">
+    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
+      Research Outputs. Google Sites.
+      <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">View source</a>.
+    </li>
+    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
+      Academic Archive — Public Records. GitHub Pages.
+      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">View source</a>.
+    </li>
+    <li style="padding-left: 0.2rem; margin-bottom: 0.3rem;">
+      Academic Archive — Main. GitHub Pages.
+      <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">View source</a>.
+    </li>
+  </ol>
+
+  <div style="font-weight: 600; margin-bottom: 0.35rem;">
+    Persistent Identifiers
+  </div>
+
+  <p style="margin: 0;">
+    ORCID:
+    <a href="https://orcid.org/0000-0002-6755-4003" target="_blank">0000-0002-6755-4003</a>
+    &nbsp;·&nbsp;
+    <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">Figshare Author Profile</a>.
+  </p>
+
 </div>
+
