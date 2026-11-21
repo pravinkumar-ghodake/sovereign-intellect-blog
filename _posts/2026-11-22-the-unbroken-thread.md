@@ -117,7 +117,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   <div style="font-size: 0.85rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
-  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: right;">Primary Sources</div>
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: left;">Primary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     Copyright &amp; Sole Authorship Record, p. iii
@@ -137,7 +137,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <a href="https://doi.org/10.6084/m9.figshare.34177155" style="font-size: 0.73rem;">https://doi.org/10.6084/m9.figshare.34177155</a>
   </div>
 
-  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: right;">Secondary Sources</div>
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: left;">Secondary Sources</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     Research Outputs — Google Site
@@ -151,7 +151,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.73rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
   </div>
 
-  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: right;">Persistent Identifiers</div>
+  <div style="font-weight: 600; margin: 0.45rem 0 0.2rem; text-align: left;">Persistent Identifiers</div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
     ORCID — Pravinkumar Ghodake
