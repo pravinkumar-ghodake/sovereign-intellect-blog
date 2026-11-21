@@ -14,7 +14,7 @@ layout: default
 
 {% assign current_trilogy = series_list | last %}
 
-<h3><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: #b91c1c;">{{ current_trilogy.title }}</a></h3>
+<h3><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: #1e3a8a;">{{ current_trilogy.title }}</a></h3>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
@@ -34,7 +34,7 @@ layout: default
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
 
-<h3><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: #b91c1c;">{{ prev_trilogy.title }}</a></h3>
+<h3><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: #1e3a8a;">{{ prev_trilogy.title }}</a></h3>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem; margin-bottom: 1.5rem;">
 
