@@ -10,10 +10,11 @@ layout: default
 {% assign series_list = site.data.series %}
 {% assign series_count = series_list | size %}
 
-<h3 style="color: var(--text-muted); font-weight: 400;">Current Trilogy</h3>
+<h3 style="color: var(--text-muted); font-weight: 400; font-size: 1.05rem;">Current Trilogy</h3>
 
 {% assign current_trilogy = series_list | last %}
-<h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--text-main);">{{ current_trilogy.title }}</a></h2>
+
+<h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: #991b1b;">{{ current_trilogy.title }}</a></h2>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
@@ -28,12 +29,12 @@ layout: default
 
 {% if series_count > 1 %}
 
-<h3 style="color: var(--text-muted); font-weight: 400;">Previous Trilogy</h3>
+<h3 style="color: var(--text-muted); font-weight: 400; font-size: 1.05rem;">Previous Trilogy</h3>
 
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
 
-<h2><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: var(--text-main);">{{ prev_trilogy.title }}</a></h2>
+<h2><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: #991b1b;">{{ prev_trilogy.title }}</a></h2>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem; margin-bottom: 1.5rem;">
 
