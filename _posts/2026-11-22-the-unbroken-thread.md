@@ -112,33 +112,37 @@ But scale alone proves nothing. A large document can still be a large plagiarism
 
 ---
 
-<div align="justify" markdown="1">
+<div style="margin: 2rem 0 1rem; padding: 1.25rem 1.5rem; border-top: 1px solid var(--border-color); font-family: var(--font-ui); font-size: 0.82rem; line-height: 1.7; text-align: left;">
 
-<div style="margin: 3rem 0; padding: 2rem; border: 1px solid var(--border-color); border-radius: 8px; background: var(--bg-main); font-family: var(--font-ui); font-size: 0.85rem; text-align: left;">
-
-  <div style="font-weight: 700; letter-spacing: 0.05em; margin-bottom: 1.5rem; color: var(--text-main);">
+  <div style="font-weight: 700; letter-spacing: 0.06em; margin-bottom: 0.65rem; color: var(--text-main);">
     SOURCES
   </div>
 
-  <p style="font-weight: 600; margin-bottom: 0.5rem; color: var(--text-main);">Primary Sources (Tier 1)</p>
-  <ul style="margin-top: 0; margin-bottom: 1.5rem; padding-left: 1.2rem;">
-    <li style="margin-bottom: 0.5rem;">Page iii — Copyright and Sole Authorship Record<br><a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">https://doi.org/10.6084/m9.figshare.34174368</a></li>
-    <li style="margin-bottom: 0.5rem;">Page vii — Thesis Philosophy: "Waves: Yet Another Play of Two Actors"<br><a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">https://doi.org/10.6084/m9.figshare.34175961</a></li>
-    <li style="margin-bottom: 0.5rem;">Page 751 — Declaration of Independent Authorship and Sole Intellectual Property Ownership<br><a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">https://doi.org/10.6084/m9.figshare.34177155</a></li>
-  </ul>
+  <p style="margin: 0.4rem 0;">
+    <strong>Primary Sources (Tier 1):</strong>
+    <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">Copyright and Sole Authorship (p. iii)</a>
+    · <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">Thesis Philosophy (p. vii)</a>
+    · <a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">Declaration of Authorship (p. 751)</a>
+  </p>
 
-  <p style="font-weight: 600; margin-bottom: 0.5rem; color: var(--text-main);">Secondary Sources (Tier 2)</p>
-  <ul style="margin-top: 0; margin-bottom: 1.5rem; padding-left: 1.2rem;">
-    <li style="margin-bottom: 0.5rem;">Google Sites — Research Outputs<br><a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">https://sites.google.com/view/pravinkumarghodake/research</a></li>
-    <li style="margin-bottom: 0.5rem;">GitHub Academic Archive — Public Records<br><a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a></li>
-    <li style="margin-bottom: 0.5rem;">GitHub Academic Archive — Main<br><a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a></li>
-  </ul>
+  <p style="margin: 0.4rem 0;">
+    <strong>Secondary Sources (Tier 2):</strong>
+    <a href="https://sites.google.com/view/pravinkumarghodake/research" target="_blank">Research Outputs</a>
+    · <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" target="_blank">Academic Archive — Public Records</a>
+    · <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" target="_blank">Academic Archive — Main</a>
+  </p>
 
-  <p style="font-weight: 600; margin-bottom: 0.5rem; color: var(--text-main);">Persistent Identifiers</p>
-  <ul style="margin-top: 0; margin-bottom: 1.5rem; padding-left: 1.2rem;">
-    <li style="margin-bottom: 0.5rem;">ORCID: 0000-0002-6755-4003<br><a href="https://orcid.org/0000-0002-6755-4003" target="_blank">https://orcid.org/0000-0002-6755-4003</a></li>
-    <li style="margin-bottom: 0.5rem;">Figshare author profile<br><a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">https://figshare.com/authors/Pravinkumar_Ghodake/3701242</a></li>
-  </ul>
+  <p style="margin: 0.4rem 0;">
+    <strong>Persistent Identifiers:</strong>
+    <a href="https://orcid.org/0000-0002-6755-4003" target="_blank">ORCID: 0000-0002-6755-4003</a>
+    · <a href="https://figshare.com/authors/Pravinkumar_Ghodake/3701242" target="_blank">Figshare Author Profile</a>
+  </p>
+
+  <p style="margin: 0.65rem 0 0; font-size: 0.75rem; color: var(--text-muted); font-style: italic;">
+    Tier 1 = DOI-linked primary records and persistent identifiers · Tier 2 = supporting self-published records
+  </p>
+
+</div>
 
   <div style="margin-top: 1.5rem; font-size: 0.8rem; color: var(--text-muted); font-style: italic;">
     Document tiers: Tier 1 = statutory filing / DOI / persistent identifier · Tier 2 = press release / self-published page
