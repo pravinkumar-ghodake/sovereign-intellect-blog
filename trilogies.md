@@ -13,7 +13,9 @@ permalink: /trilogies/
 {% assign series_list = site.data.series %}
 
 {% for trilogy in series_list %}
-## [{{ trilogy.title }}]({{ '/series/' | append: trilogy.slug | append: '/' | relative_url }})
+<h2 style="margin-bottom: 0.5rem;">
+<a href="{{ '/series/' | append: trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ trilogy.title }}</a>{% if forloop.last %} <span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px; margin-left: 0.75rem; vertical-align: middle;">Current</span>{% endif %}
+</h2>
 
 {% if trilogy.description %}
 <p style="font-family: var(--font-ui); font-size: 0.98rem; color: var(--text-muted); margin-top: 0.35rem;">{{ trilogy.description }}</p>
@@ -30,3 +32,7 @@ permalink: /trilogies/
 
 </div>
 {% endfor %}
+
+<div style="margin-top: 3rem; text-align: center; font-family: var(--font-ui);">
+<a href="{{ '/' | relative_url }}">← Return home</a>
+</div>
