@@ -50,7 +50,7 @@ It opens with a quote from Prof. Zhigang Suo of Harvard University: *"Waves: Yet
 
 A reader who opens <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">the thesis record on Figshare</a> sees the front matter first. The copyright page. The philosophy page. The declaration. Those three pages are disclosed publicly, for reasons the thesis itself explains — the research contains results that are not yet fully published, and the author retains the right to control their dissemination. The full thesis is available on request.
 
-But the disclosed pages are enough. They make the artifact legible. And what they reveal is not just a document. It is a form of accountability.
+But the disclosed pages are enough. They make the artifact legible. And what they reveal is not just a document. It is a form of ownership.
 
 </div>
 
@@ -60,13 +60,13 @@ But the disclosed pages are enough. They make the artifact legible. And what the
 
 Three pages of the thesis are public. Each does a specific job. Each is anchored to its own persistent identifier. None of them lives on the institution's servers.
 
-<a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">The copyright page</a> — page iii — establishes the author's copyright claim, the sole-authorship claim, and the ORCID identifier that links the copyright to a globally unique author identity. It is the page that says: this work belongs to someone. Specifically.
+<a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">The copyright page</a> — page iii — establishes my copyright claim, the sole-authorship claim, and the ORCID identifier that links the copyright to a globally unique author identity. It is the page that says: this work belongs to someone. Specifically.
 
-<a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">The philosophy page</a> — page vii — establishes the intellectual framing. It carries the Suo quote, the author's explanatory paragraph, and the author's name beneath the statement. It is the page that says: this work has a voice. Specifically.
+<a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">The philosophy page</a> — page vii — establishes the intellectual framing. It carries the Suo quote, my explanatory paragraph, and my name beneath the statement. It is the page that says: this work has a voice. Specifically.
 
-<a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">The declaration page</a> — page 751 — establishes three facts: that the work is the author's own, that the author functioned independently for the most significant part of the PhD program, and that the author retains sole ownership of all intellectual property rights arising from the thesis. It is the page that says: this work carries a specific legal claim, made at a specific moment, by a specific person.
+<a href="https://doi.org/10.6084/m9.figshare.34177155" target="_blank">The declaration page</a> — page 751 — establishes three facts: that the work is mine, that I functioned independently for the most significant part of the PhD program, and that I retain sole ownership of all intellectual property rights arising from the thesis. It is the page that says: this work carries a specific legal claim, made at a specific moment, by a specific person.
 
-Each page is on Figshare. Each has a DOI. Each DOI is resolvable. The documents are not on the institution's servers. They are on a public archive, hosted by a third party, with a permanent identifier that will resolve as long as the archive exists. The legal record of authorship is not dependent on the institution's willingness to preserve it.
+Each page is on Figshare. Each has a DOI. Each DOI is resolvable. The documents are not on the institution's servers. They are on a public archive, hosted by a third party, with a permanent identifier that will resolve as long as the archive exists. The legal record of authorship does not depend on the institution's willingness to preserve it.
 
 </div>
 
@@ -76,11 +76,13 @@ Each page is on Figshare. Each has a DOI. Each DOI is resolvable. The documents 
 
 The committee diffuses responsibility. This is not a criticism; it is a mechanism. When a paper has ten authors, no single person is accountable for the whole. Credit is shared, and so is blame. Errors are absorbed by the collective. The committee is a legitimate form of academic organisation, and it produces a specific kind of work: work that has been negotiated into existence.
 
-The single author concentrates it. Every claim in the thesis is the author's claim. Every error is the author's error. Every result is the author's result. There is no seam to hide in, no co-author to defer to, no committee to absorb the failure. The thesis stands or falls as a whole, and it stands or falls on one name.
+The single author concentrates. Every claim in the thesis is my claim. Every error is my error. Every result is my result. There is no seam to hide in, no co-author to defer to, no committee to absorb the failure. The thesis stands or falls as a whole, and it stands or falls on one name.
 
-The DOI makes this concentration permanent. The page is dated. It is hosted. It is resolvable. The author's name is on it. A reader who clicks the link in 2036 will see the same page, with the same name, dated the same way. The concentration of accountability is not a claim the author makes about the work; it is a structural property of how the work is documented.
+The same concentration applies to quality. This is not a claim the author asserts; it is what the record shows. The 828 pages are documented across <a href="https://scholar.google.com/citations?user=WJSL6fIAAAAJ" target="_blank">16+ JASA articles</a>, 32+ conference papers, 30+ talks, and an <a href="https://scopus.com/pages/publications/85117472334" target="_blank">FWCI of 1.51</a> on the ICSV 2021 paper — 51% above the global average, calculated by Elsevier Scopus. A <a href="https://scopus.com/pages/publications/85124142075" target="_blank">second paper</a> scores 1.04. A <a href="https://doi.org/10.6084/m9.figshare.34157106" target="_blank">solo-author invitation to the Gordon Research Seminar 2024</a> documents peer selection at a venue where even established faculty from MIT, Harvard, and Caltech compete for slots.
 
-This is the standard the single-author artifact establishes. Not a higher standard of quality — the committee can produce excellent work. A higher standard of accountability. The form in which responsibility is most visible, and most permanently anchored.
+The DOI makes both concentrations permanent. The page is dated. It is hosted. It is resolvable. My name is on it. A reader who clicks the link in 2036 will see the same page, with the same name, dated the same way. The concentration of accountability is not a claim I make about the work; it is a structural property of how the work is documented. The concentration of quality is not a claim either; it is what the third-party metrics record.
+
+This is what the single-author artifact establishes. Quality and accountability are concentrated in the same document, on the same name, at the same DOI. Both are verifiable. Both are mine.
 
 </div>
 
@@ -90,7 +92,7 @@ This is the standard the single-author artifact establishes. Not a higher standa
 
 The institutional vocabulary for this work is *research translation*. The phrase describes a function: the movement of research from laboratory to application, brokered by an office, a program, a partnership. The office exists because the work cannot move itself. It requires translation.
 
-Drop the modifier. The work is not research translation. It is **translation-ready**.
+Drop the modifier. My work is not research translation. It is **translation-ready**.
 
 The single author produces work that is already in the form the translation office would produce — legible, documented, citable, attributable — without waiting for the office to exist. The 828 pages are not a manuscript waiting for a translator. They are the finished product, waiting for a reader. The DOI is not a promise of future translation. It is the translation, in the form the reader can use it.
 
@@ -106,13 +108,13 @@ If one author can produce 828 pages of verifiable work, why do institutions need
 
 *What is the document?*
 
-But scale alone proves nothing. A large document can still be a large plagiarism; a single-author thesis can still be someone else's thesis. What makes the 828 pages verifiable — what makes them *yours* in a way anyone can check — is the metric. The artifact has been built. Part II will be about the number that proves it.
+The artifact is complete. What makes it verifiable — what makes it *mine* in a way anyone can check — is the metric. The thesis has scale; the metric has specificity. Part II is about the number that proves the work is original.
 
 </div>
 
 ---
 
-<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem; margin-bottom:  -1rem;">
+<div style="font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.35; text-align: right; margin-top: 1.5rem; margin-bottom: -1rem;">
 
   <div style="font-size: 0.95rem; letter-spacing: 0.08em; margin-bottom: 0.35rem; text-align: right;">SOURCES</div>
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
@@ -136,6 +138,7 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <span style="opacity: 0.55;"> | </span>
     Independent Authorship &amp; IP Declaration, p. 751
   </div>
+
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Secondary Sources</div>
@@ -147,12 +150,12 @@ But scale alone proves nothing. A large document can still be a large plagiarism
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
     <span style="opacity: 0.55;"> | </span>
-    Academic Archive — Main
+    Research Outputs — Public Records
   </div>
-  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
+  <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
   <div style="font-weight: 600; margin: 0.45rem 0 0.2rem;">Persistent Identifiers</div>
 
@@ -167,8 +170,13 @@ But scale alone proves nothing. A large document can still be a large plagiarism
     <span style="opacity: 0.55;"> | </span>
     Figshare Author Profile
   </div>
+
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
 </div>
 
+<div align="justify" markdown="1" style="margin-top: 2rem;">
 
+<a href="{{ '/the-turnitin-score.html' | relative_url }}">The 2% Turnitin Score →</a>
+
+</div>
