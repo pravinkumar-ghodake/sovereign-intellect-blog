@@ -172,9 +172,3 @@ The metric proves the work is original. The document proves the work is *whose*.
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
 
 </div>
-
-<div align="justify" markdown="1" style="margin-top: 2rem;">
-
-<a href="{{ '/page-751.html' | relative_url }}">Page 751 →</a>
-
-</div>
