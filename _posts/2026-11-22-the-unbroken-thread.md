@@ -175,8 +175,3 @@ The artifact is complete. What makes it verifiable — what makes it *mine* in a
 
 </div>
 
-<div align="justify" markdown="1" style="margin-top: 2rem;">
-
-<a href="{{ '/the-turnitin-score.html' | relative_url }}">The 2% Turnitin Score →</a>
-
-</div>
