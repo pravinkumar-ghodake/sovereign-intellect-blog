@@ -146,9 +146,9 @@ The metric is the number. The document is the declaration that anchors it. Part 
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
     <span style="opacity: 0.55;"> | </span>
-    Research Outputs — Public Records
+    Academic Archive — Main
   </div>
 
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
