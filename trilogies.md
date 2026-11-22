@@ -33,6 +33,6 @@ permalink: /trilogies/
 </div>
 {% endfor %}
 
-<div style="margin-top: 3rem; text-align: center; font-family: var(--font-ui);">
+<div style="margin-top: 3rem; text-align: right; font-family: var(--font-ui);">
 <a href="{{ '/' | relative_url }}">← Return home</a>
 </div>
