@@ -10,16 +10,16 @@ layout: default
 {% assign series_list = site.data.series %}
 {% assign series_count = series_list | size %}
 
-<h3 style="color: var(--text-main); font-weight: 700; font-size: 1.05rem; text-align: left;">Current Trilogy</h3>
+<h2 style="color: var(--text-main); font-weight: 700; font-size: 1.05rem; text-align: left;">Current Trilogy</h2>
 
 {% assign current_trilogy = series_list | last %}
-<h2><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ current_trilogy.title }}</a></h2>
+<h3><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ current_trilogy.title }}</a></h3>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
 {% for part in current_trilogy.parts %}
 <a href="{{ part.url | relative_url }}" style="display: block; text-decoration: none;{% unless forloop.last %} margin-bottom: 1.5rem;{% endunless %}">
-<h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part {{ part.number }}: {{ part.title }}</h3>
+<h4 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part {{ part.number }}: {{ part.title }}</h4>
 <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">{{ part.subtitle }}</p>
 </a>
 {% endfor %}
@@ -28,22 +28,26 @@ layout: default
 
 {% if series_count > 1 %}
 
-<h3 style="color: var(--text-main); font-weight: 700; font-size: 1.05rem; margin-top: 3.5rem; text-align: left;">Previous Trilogy</h3>
+<h2 style="color: var(--text-main); font-weight: 700; font-size: 1.05rem; margin-top: 3.5rem; text-align: left;">Previous Trilogy</h2>
 
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
 
-<h2><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ prev_trilogy.title }}</a></h2>
+<h3><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ prev_trilogy.title }}</a></h3>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
 
 {% for part in prev_trilogy.parts %}
 <a href="{{ part.url | relative_url }}" style="display: block; text-decoration: none;{% unless forloop.last %} margin-bottom: 1.5rem;{% endunless %}">
-<h3 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part {{ part.number }}: {{ part.title }}</h3>
+<h4 style="margin: 0 0 0.5rem 0; color: var(--accent-color); font-size: 1.25rem;">Part {{ part.number }}: {{ part.title }}</h4>
 <p style="margin: 0; color: var(--text-muted); font-size: 1rem; font-family: var(--font-ui);">{{ part.subtitle }}</p>
 </a>
 {% endfor %}
 
+</div>
+
+<div style="margin-top: 1.75rem; text-align: right;">
+<a href="{{ '/trilogies/' | relative_url }}" style="font-family: var(--font-ui); font-size: 1rem; color: var(--accent-color);">View all trilogies →</a>
 </div>
 
 {% endif %}
