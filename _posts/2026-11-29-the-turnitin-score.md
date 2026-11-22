@@ -42,25 +42,27 @@ The number is 2%. It is stated in the <a href="https://doi.org/10.6084/m9.figsha
 
 The measurement is Turnitin. Turnitin compares a submitted document against a database of published papers, web pages, and student submissions. It returns a similarity score. The score for the 828-page thesis is 2%.
 
-The 2% breaks down as follows. Approximately 1% is attributable to the author's own previously published research — text that appeared in earlier papers by the same author. Approximately 1% is attributable to other sources, quoted and cited. The rest — roughly 98% — is new text.
+The 2% breaks down as follows. Approximately 1% is attributable to my own previously published research — text that appeared in earlier papers by me. Approximately 1% is attributable to other sources, quoted and cited. The rest — roughly 98% — is new text.
 
-This matters because of what it demonstrates. A doctoral thesis of 828 pages, developed across three years, with original derivations, original code, and original experiments, contains almost no recycled text. The metric is not a statement of quality. It is a statement of textual originality, and the originality is 98%.
+This matters because of what it demonstrates. A doctoral thesis of 828 pages, developed across three years, with original derivations, original code, and original experiments, contains almost no recycled text. The number is not a claim of quality in the abstract; it is a measurement of a specific property, and the property measures at 98%. That number is itself a form of quality — originality at the scale of a thesis is measurable, and it is measured here.
 
 The metric is also public. The Figshare descriptions of the <a href="https://doi.org/10.6084/m9.figshare.34174368" target="_blank">copyright page</a>, the <a href="https://doi.org/10.6084/m9.figshare.34175961" target="_blank">philosophy page</a>, and the declaration state the number, the date, and the context. A reader who clicks any of the three thesis DOIs will see the metric. The metric is not behind a login. It is not in an internal file. It is on the record.
 
 </div>
 
-## III. What the Metric Does Not Show
+## III. The Scope of the Metric — and What Complements It
 
 <div align="justify" markdown="1">
 
-A metric is a specific thing. It measures one property and no other. The 2% Turnitin score measures text similarity. It does not measure quality. It does not measure correctness. It does not measure contribution.
+The 2% Turnitin score measures text similarity. That is its scope. The scope is specific for a reason: different properties have different measurements, and each measurement establishes a different part of the case.
 
-A thesis with a 2% Turnitin score could still be wrong. It could still be unoriginal in its ideas (though not in its text). It could still be poorly argued, badly written, or scientifically weak. The metric says nothing about these properties. It says one thing, and it says it clearly: the text is not recycled.
+Originality is measured by Turnitin. Impact is measured by citation metrics. Contribution is measured by peer selection. Together, the three metrics constitute the case for the work.
 
-This matters because the metric's honesty is its strength. A metric that claims to measure everything measures nothing. The 2% Turnitin score measures one specific thing, and it does so with a public, dated, resolvable record. A reader who wants to know whether the thesis is good must read the thesis. A reader who wants to know whether the thesis is textually original can check the metric. The two questions are different, and the metric answers only one of them.
+The impact metric is the Field-Weighted Citation Impact (FWCI). The <a href="https://scopus.com/pages/publications/85117472334" target="_blank">ICSV 2021 paper</a> scores 1.51 — 51% above the global average, calculated by Elsevier Scopus, for its field and age. A <a href="https://scopus.com/pages/publications/85124142075" target="_blank">second paper, at QNDE 2021</a>, scores 1.04. Both are documented in an independent citation database, not asserted by me.
 
-The caveat is important. Without it, the metric becomes a substitute for quality, which it is not. With it, the metric becomes a specific, honest claim: 98% original text, publicly recorded, checkable by anyone.
+The contribution metric is peer selection. The <a href="https://doi.org/10.6084/m9.figshare.34157106" target="_blank">solo-author invitation to the Gordon Research Seminar 2024</a> is one example — a venue where acceptance is highly competitive even for established faculty. The <a href="https://scopus.com/pages/publications/85139252220" target="_blank">IWSHM 2021/22 papers</a> at Stanford, the <a href="https://doi.org/10.6084/m9.figshare.34037976" target="_blank">iNCMDAO 2024 presentations</a> at IISc, and the solo presentation at the <a href="https://doi.org/10.6084/m9.figshare.34066416" target="_blank">META 2023 conference in Paris</a> are others. Each is documented by a named venue, a named session, and a resolvable record.
+
+The metric is specific. The scope is clear. Originality is measured by Turnitin; impact is measured by FWCI; contribution is measured by peer selection. Each measurement is public, dated, and resolvable. Together, they establish not just originality but quality — and the quality is measured, not asserted.
 
 </div>
 
@@ -74,9 +76,9 @@ This is not a new idea. It is the foundation of modern science: measurements mus
 
 The same principle applies to integrity claims. A claim of academic integrity is only as strong as the metric that backs it. If the metric is public, dated, and resolvable, the claim is testable. If the metric is internal, undated, or nonexistent, the claim is a statement — and statements, unlike measurements, cannot be checked.
 
-The individual researcher who publishes a Turnitin score is doing something institutions rarely do: making the claim testable. The claim is not "I am original." The claim is "Here is the number. Check it yourself." The distinction is subtle and enormous. The first claim is a statement; the second is a measurement. One can be checked; the other cannot.
+The individual researcher who publishes a Turnitin score is doing something institutions rarely do: making the claim testable. The claim is not "I am original." The claim is "Here is the number. Check it yourself." The first is a statement; the second is a measurement. The distinction is subtle and enormous.
 
-This is the standard the metric establishes. Not a higher standard of quality — quality is a different question. A higher standard of accountability. The claim is specific, dated, and anchored to a permanent record. Anyone can check it. That is the whole of the standard, and it is enough.
+This is the standard the metric establishes. The claim is specific, dated, and anchored to a permanent record. Anyone can check it. The checkability is what makes the metric part of the argument, and not merely a footnote to it.
 
 </div>
 
@@ -86,13 +88,13 @@ This is the standard the metric establishes. Not a higher standard of quality �
 
 The institutional vocabulary for this is *academic integrity*. The phrase describes a virtue: the commitment of an institution, or a scholar, to honesty in the production and transmission of knowledge. It is a legitimate virtue. It is also, in most institutional contexts, an unfalsifiable claim.
 
-Drop the modifier. The work is not academic integrity. It is **checkable integrity**.
+Drop the modifier. My work is not academic integrity. It is **checkable integrity**.
 
 The distinction is this. "Academic integrity" is a claim about a state of character. "Checkable integrity" is a claim about a specific, recorded metric. The first is a statement; the second is a measurement. The first cannot be falsified; the second can.
 
-The individual researcher who publishes a Turnitin score is not claiming academic integrity. The individual is doing something more specific: publishing a number that demonstrates a specific property (textual originality), on a specific date, with a specific identifier. The number is not a claim of good character. It is a proof of a measurable fact. The difference is not rhetoric. It is the difference between a promise and a proof.
+The individual researcher who publishes a Turnitin score is not claiming academic integrity in the abstract. The individual is doing something more specific: publishing a number that demonstrates a specific property (textual originality), on a specific date, with a specific identifier. The number is not a claim of good character. It is a proof of a measurable fact.
 
-This is what checkable integrity looks like in practice. Not a claim of virtue. A metric that anyone can check. The claim is specific because the metric is specific. The claim is testable because the metric is public.
+This is what checkable integrity looks like in practice. Not a claim of virtue. A metric that anyone can check. The claim is specific because the metric is specific. The claim is testable because the metric is public. The work is mine because the metric is mine, and the metric is measured.
 
 </div>
 
@@ -104,7 +106,7 @@ When an institution claims "academic integrity," what is the metric? Is it check
 
 *What is the document?*
 
-The metric is the number. The document is the declaration that anchors it. Part III will be about the declaration — the page on which the author formally claims ownership, independence, and the specific IP rights arising from the work. The metric says the work is original. The declaration says the work is *whose*. Part III is about the page that makes the claim legal.
+The metric proves the work is original. The document proves the work is *whose*. Part III is about the declaration — the page on which I formally claim ownership, independence, and the specific IP rights arising from the work. The metric says the work is new. The declaration says the work is mine. Part III is about the page that makes the claim legal.
 
 </div>
 
@@ -146,9 +148,9 @@ The metric is the number. The document is the declaration that anchors it. Part 
   </div>
 
   <div style="margin-bottom: 0.3rem; white-space: nowrap; overflow-x: auto;">
-    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/</a>
+    <a href="https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/" style="font-size: 0.82rem;">https://pravinkumar-ghodake.github.io/pravinkumar-ghodake-academic-archive/01-public-records/research-outputs/</a>
     <span style="opacity: 0.55;"> | </span>
-    Academic Archive — Main
+    Research Outputs — Public Records
   </div>
 
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
@@ -168,5 +170,11 @@ The metric is the number. The document is the declaration that anchors it. Part 
   </div>
 
   <div style="border-top: 1px solid rgba(128,128,128,0.15); margin-bottom: 0.45rem;"></div>
+
+</div>
+
+<div align="justify" markdown="1" style="margin-top: 2rem;">
+
+<a href="{{ '/page-751.html' | relative_url }}">Page 751 →</a>
 
 </div>
