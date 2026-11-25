@@ -21,7 +21,7 @@ permalink: /trilogies/
 {% endif %}
 
 <h2 style="margin-bottom: 0.5rem;">
-<a href="{{ '/series/' | append: trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ trilogy.title }}</a>
+<a href="{{ '/series/' | append: trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ trilogy.title }}</a>{% if forloop.last %} <span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-main); border: 1px solid var(--text-main); padding: 2px 8px; border-radius: 4px; margin-left: 0.75rem; vertical-align: middle;">Current</span>{% endif %}
 </h2>
 
 {% if trilogy.description %}
