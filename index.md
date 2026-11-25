@@ -6,13 +6,17 @@ layout: default
 <strong>Sovereign Intellect</strong> publishes structured trilogies on <strong>intellectual sovereignty</strong> — how independent scientists and polymaths own claims, anchor verifiable provenance, and resist algorithmic erasure in the AI era. Amid hyper-authorship, disciplinary silos, and automated synthesis stripping origin, discovery alone no longer protects originality. Cross-disciplinary minds spanning code, theory, mechanics, and culture need timestamped, machine-readable proof — a permanent fortress so no theorem, artifact, or insight is absorbed, fragmented, or claimed without credit.
 </div>
 
-
 {% assign series_list = site.data.series %}
 {% assign series_count = series_list | size %}
 
-<h2 style="color: var(--text-main); font-weight: 700; font-size: 1.05rem; text-align: left;">Current Trilogy</h2>
+{% if series_count > 0 %}
 
 {% assign current_trilogy = series_list | last %}
+
+<div style="margin-bottom: 0.5rem;">
+<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px;">Current Trilogy</span>
+</div>
+
 <h3><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ current_trilogy.title }}</a></h3>
 
 <div style="background: var(--bg-secondary); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-color); margin-top: 1.5rem;">
@@ -28,10 +32,12 @@ layout: default
 
 {% if series_count > 1 %}
 
-<h2 style="color: var(--text-main); font-weight: 700; font-size: 1.05rem; margin-top: 3.5rem; text-align: left;">Previous Trilogy</h2>
-
 {% assign prev_index = series_count | minus: 2 %}
 {% assign prev_trilogy = series_list[prev_index] %}
+
+<div style="margin-top: 3.5rem; margin-bottom: 0.5rem;">
+<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px;">Previous Trilogy</span>
+</div>
 
 <h3><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ prev_trilogy.title }}</a></h3>
 
@@ -45,6 +51,8 @@ layout: default
 {% endfor %}
 
 </div>
+
+{% endif %}
 
 <div style="margin-top: 1.75rem; text-align: right;">
 <a href="{{ '/trilogies/' | relative_url }}" style="font-family: var(--font-ui); font-size: 1rem; color: var(--accent-color);">View all trilogies →</a>
