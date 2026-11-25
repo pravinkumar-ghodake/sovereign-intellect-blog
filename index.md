@@ -14,7 +14,7 @@ layout: default
 {% assign current_trilogy = series_list | last %}
 
 <div style="margin-bottom: 0.5rem;">
-<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px;">Current Trilogy</span>
+<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-main); border: 1px solid var(--text-main); padding: 2px 8px; border-radius: 4px;">Current Trilogy</span>
 </div>
 
 <h3><a href="{{ '/series/' | append: current_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ current_trilogy.title }}</a></h3>
@@ -36,7 +36,7 @@ layout: default
 {% assign prev_trilogy = series_list[prev_index] %}
 
 <div style="margin-top: 3.5rem; margin-bottom: 0.5rem;">
-<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px;">Previous Trilogy</span>
+<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-main); border: 1px solid var(--text-main); padding: 2px 8px; border-radius: 4px;">Previous Trilogy</span>
 </div>
 
 <h3><a href="{{ '/series/' | append: prev_trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ prev_trilogy.title }}</a></h3>
