@@ -11,10 +11,22 @@ permalink: /trilogies/
 </div>
 
 {% assign series_list = site.data.series %}
+{% assign ordered_series = series_list | reverse %}
 
-{% for trilogy in series_list %}
+{% for trilogy in ordered_series %}
+
+{% if forloop.first %}
+<div style="margin-bottom: 0.5rem;">
+<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px;">Current Trilogy</span>
+</div>
+{% elsif forloop.index == 2 %}
+<div style="margin-bottom: 0.5rem;">
+<span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent-color); border: 1px solid var(--accent-color); padding: 2px 8px; border-radius: 4px;">Previous Trilogy</span>
+</div>
+{% endif %}
+
 <h2 style="margin-bottom: 0.5rem;">
-<a href="{{ '/series/' | append: trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ trilogy.title }}</a>{% if forloop.last %} <span style="display: inline-block; font-family: var(--font-ui); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(----text-main); border: 1px solid var(----text-main); padding: 2px 8px; border-radius: 4px; margin-left: 0.75rem; vertical-align: middle;">Current</span>{% endif %}
+<a href="{{ '/series/' | append: trilogy.slug | append: '/' | relative_url }}" style="color: var(--accent-color);">{{ trilogy.title }}</a>
 </h2>
 
 {% if trilogy.description %}
